@@ -6,27 +6,27 @@ Here i will save all my data and knowledge about 日本語
 <table>
   <tr><th>Name</th><th>Users</th><th>Rating</th><th>Personal Rating</th><th>Link</th></tr>
   
-  <tr><th>Duolingo</th><th>8 495 063</th><th>⭐⭐⭐⭐ - 4,7</th><th>⭐⭐⭐⭐⭐ - 5</th><th><a href="https://play.google.com/store/apps/details?id=com.duolingo&hl=ru">行きましょう！</a></th></tr>
+  <tr><th>Duolingo</th><th>8 495 063</th><th>⭐⭐⭐⭐ - 4,7</th><th>⭐⭐⭐⭐⭐ - 5</th><th><a href="https://play.google.com/store/apps/details?id=com.duolingo&hl=ru" target="_blank">行きましょう！</a></th></tr>
   
-  <tr><th>Tangorin</th><th>407</th><th>⭐⭐⭐⭐ - 4,6</th><th>⭐⭐⭐⭐⭐ - 5</th><th><a href="https://play.google.com/store/apps/details?id=com.tangorin.app&hl=ru">行きましょう！</a></th></tr>
+  <tr><th>Tangorin</th><th>407</th><th>⭐⭐⭐⭐ - 4,6</th><th>⭐⭐⭐⭐⭐ - 5</th><th><a href="https://play.google.com/store/apps/details?id=com.tangorin.app&hl=ru" target="_blank">行きましょう！</a></th></tr>
   
-  <tr><th>LingoDeer</th><th>334 336</th><th>⭐⭐⭐⭐ - 4,7</th><th>⭐⭐⭐⭐ - 4</th><th><a href="https://play.google.com/store/apps/details?id=com.lingodeer&hl=ru">行きましょう！</a></th></tr>
+  <tr><th>LingoDeer</th><th>334 336</th><th>⭐⭐⭐⭐ - 4,7</th><th>⭐⭐⭐⭐ - 4</th><th><a href="https://play.google.com/store/apps/details?id=com.lingodeer&hl=ru" target="_blank">行きましょう！</a></th></tr>
   
-  <tr><th>Kanji Study</th><th>3 969</th><th>⭐⭐⭐⭐ - 4,8</th><th>⭐⭐⭐⭐⭐ - 5</th><th><a href="https://play.google.com/store/apps/details?id=com.porolingo.kanji&hl=ru">行きましょう！</a></th></tr>
+  <tr><th>Kanji Study</th><th>3 969</th><th>⭐⭐⭐⭐ - 4,8</th><th>⭐⭐⭐⭐⭐ - 5</th><th><a href="https://play.google.com/store/apps/details?id=com.porolingo.kanji&hl=ru" target="_blank">行きましょう！</a></th></tr>
   
-  <tr><th>Easy Japanese</th><th>8 743</th><th>⭐⭐⭐⭐ - 4,8</th><th>⭐⭐⭐⭐ - 4</th><th><a href="https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=ru">行きましょう！</a></th></tr>
+  <tr><th>Easy Japanese</th><th>8 743</th><th>⭐⭐⭐⭐ - 4,8</th><th>⭐⭐⭐⭐ - 4</th><th><a href="https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=ru" target="_blank">行きましょう！</a></th></tr>
   
-  <tr><th>Drops</th><th>182 251</th><th>⭐⭐⭐⭐ - 4,6</th><th>⭐⭐⭐⭐⭐ - 5</th><th><a href="https://play.google.com/store/apps/details?id=com.languagedrops.drops.international&hl=ru">行きましょう！</a></th></tr>
+  <tr><th>Drops</th><th>182 251</th><th>⭐⭐⭐⭐ - 4,6</th><th>⭐⭐⭐⭐⭐ - 5</th><th><a href="https://play.google.com/store/apps/details?id=com.languagedrops.drops.international&hl=ru" target="_blank">行きましょう！</a></th></tr>
  </table>
  
  ### IOS 
  <table>
   <tr><th>Name</th><th>Users</th><th>Rating</th><th>Personal Rating</th><th>Link</th></tr>
   
-  <tr><th>Tsurukame - For WaniKani</th><th>???</th><th>⭐⭐⭐⭐ - 4,6</th><th>⭐⭐⭐⭐⭐ - 5</th><th><a href="https://apps.apple.com/us/app/tsurukame-for-wanikani/id1367114761">行きましょう！</a></th></tr>
+  <tr><th>Tsurukame - For WaniKani</th><th>???</th><th>⭐⭐⭐⭐ - 4,6</th><th>⭐⭐⭐⭐⭐ - 5</th><th><a href="https://apps.apple.com/us/app/tsurukame-for-wanikani/id1367114761" target="_blank">行きましょう！</a></th></tr>
   
   
-  <tr><th>Kanji Teacher - Learn Japanese</th><th>???</th><th>⭐⭐⭐⭐ - 4,7</th><th>⭐⭐⭐⭐⭐ - 5</th><th><a href="https://apps.apple.com/us/app/kanji-teacher-learn-japanese/id1048445761">行きましょう！</a></th></tr>
+  <tr><th>Kanji Teacher - Learn Japanese</th><th>???</th><th>⭐⭐⭐⭐ - 4,7</th><th>⭐⭐⭐⭐⭐ - 5</th><th><a href="https://apps.apple.com/us/app/kanji-teacher-learn-japanese/id1048445761" target="_blank">行きましょう！</a></th></tr>
   
 
  </table>
