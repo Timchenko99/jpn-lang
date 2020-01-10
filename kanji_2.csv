@@ -1,0 +1,2049 @@
+;character;meaning;on;kun
+0;上;Above;じょう;うえ, あ, のぼ, うわ, かみ
+1;文;Writing;ぶん, もん;None
+2;白;White;はく;しろ, しら
+3;水;Water;すい;みず
+4;木;Tree;もく, ぼく;き, こ
+5;千;Thousand;せん;ち
+6;刀;Sword;とう;かたな
+7;日;Sun;にち, じつ;ひ, か, び
+8;丁;Street;ちょう, てい;None
+9;立;Stand;りつ, りゅう;た
+10;小;Small;しょう;ちい, こ, お
+11;起;Wake Up;き;お
+12;慕;Yearn For;ぼ;した
+13;邪;Wicked;じゃ;よこし
+14;透;Transparent;とう;す
+15;濡;Wet;None;ぬ
+16;妻;Wife;さい;つま
+17;厚;Thick;こう;あつ
+18;論;Theory;ろん;None
+19;尾;Tail;び;お, ぽ
+20;余;Surplus;よ;あま
+21;臭;Stinking;しゅう;くさ
+22;防;Prevent;ぼう;ふせ
+23;圧;Pressure;あつ;None
+24;率;Percent;りつ, そつ;ひき
+25;経;Passage of Time;けい;た, へ
+26;倒;Overthrow;とう;たお
+27;妨;Obstruct;ぼう;さまた
+28;機;Machine;き;はた
+29;個;Individual;こ;None
+30;被;Incur;ひ;かぶ
+31;穴;Hole;けつ;あな
+32;罪;Guilt;ざい;つみ
+33;産;Give Birth;さん;う
+34;飛;Fly;ひ;と
+35;在;Exist;ざい;None
+36;震;Earthquake;しん;ふる
+37;夢;Dream;む;ゆめ
+38;困;Distressed;こん;こま
+39;嫌;Dislike;けん, げん;いや, きら
+40;災;Disaster;さい;わざわ
+41;難;Difficult;なん;むずか
+42;議;Deliberation;ぎ;None
+43;害;Damage;がい;None
+44;犯;Crime;はん;おか
+45;械;Contraption;かい;かせ
+46;確;Certain;かく;たし
+47;尻;Butt;None;しり
+48;裕;Abundant;ゆう;None
+49;若;Young;じゃく;わか, も
+50;財;Wealth;さい, ざい;None
+51;暴;Violence;ぼう;あば, ばく
+52;舌;Tongue;ぜつ;した
+53;連;Take Along;れん;つ, つら
+54;節;Season;せつ;ふし
+55;乱;Riot;らん;みだ
+56;改;Renew;かい;あらた
+57;詞;Part Of Speech;し;None
+58;宇;Outer Space;う;None
+59;順;Order;じゅん;None
+60;善;Morally Good;ぜん;None
+61;混;Mix;こん;ま
+62;宙;Midair;ちゅう;None
+63;徒;Junior;と;None
+64;史;History;し;None
+65;団;Group;だん, とん;None
+66;容;Form;よう;None
+67;笛;Flute;てき;ふえ
+68;絡;Entangle;らく;から
+69;易;Easy;い, えき;やさ
+70;昆;Descendants;こん;None
+71;減;Decrease;げん;へ
+72;続;Continue;ぞく;つづ
+73;歴;Continuation;れき;へ
+74;比;Compare;ひ;くら
+75;布;Cloth;ふ;ぬの
+76;閥;Clique;ばつ;None
+77;忙;Busy;ぼう;いそが
+78;履;Boots;り;は
+79;冊;Book Counter;さつ;None
+80;加;Add;か;くわ
+81;得;Acquire;とく;え, う
+82;禅;Zen;ぜん;None
+83;洗;Wash;せん;あら
+84;類;Type;るい;たぐ
+85;喉;Throat;こう;のど
+86;叩;Strike;こう;たた
+87;汽;Steam;き;None
+88;煙;Smoke;えん;けむ, けむり
+89;座;Sit;ざ;すわ
+90;静;Quiet;せい;しず
+91;禁;Prohibit;きん;None
+92;僧;Priest;そう;None
+93;祈;Pray;き;いの
+94;可;Possible;か;None
+95;許;Permit;きょ;ゆる
+96;句;Paragraph;く;None
+97;報;News;ほう;むく
+98;種;Kind;しゅ;たね, ぐさ
+99;訓;Instruction;くん;よ
+100;忘;Forget;ぼう;わす
+101;枚;Flat Objects Counter;まい;None
+102;等;Equal;とう;ひと, など
+103;喫;Consume;きつ;の
+104;胸;Chest;きょう;むね
+105;飴;Candy;None;あめ
+106;脳;Brain;のう;None
+107;弓;Bow;きゅう;ゆみ
+108;借;Borrow;しゃく;か
+109;焼;Bake;しょう;や
+110;達;Attain;たつ;たち
+111;告;Announce;こく;つ
+112;警;Warn;けい;None
+113;虚;Void;きょ, こ;むな
+114;梅;Ume;ばい;うめ
+115;細;Thin;さい;ほそ, こま
+116;説;Theory;せつ;と
+117;兵;Soldier;へい, ひょう;None
+118;側;Side;そく;がわ, そば
+119;席;Seat;せき;None
+120;塩;Salt;えん;しお
+121;悲;Sad;ひ;かな
+122;恋;Romance;れん;こい
+123;喜;Rejoice;き;よろこ
+124;栄;Prosper;えい;さか
+125;原;Original;げん;はら
+126;常;Ordinary;じょう;つね
+127;無;Nothing;む, ぶ;な
+128;鼻;Nose;び;はな
+129;覚;Memorize;かく;おぼ, さ
+130;薬;Medicine;やく;くすり
+131;愛;Love;あい;まな
+132;非;Injustice;ひ;None
+133;幻;Illusion;げん;まぼろし
+134;堂;Hall;どう;None
+135;察;Guess;さつ;None
+136;署;Government Office;しょ;None
+137;官;Government;かん;None
+138;果;Fruit;か;くだ, は
+139;渉;Ford;しょう;わた
+140;敗;Failure;はい;やぶ
+141;干;Dry;かん;ほ, ひ
+142;劇;Drama;げき;None
+143;識;Discerning;しき;None
+144;詳;Detailed;しょう;くわ
+145;因;Cause;いん;よ
+146;底;Bottom;てい;そこ
+147;結;Bind;けつ;むす, ゆ
+148;是;Absolutely;ぜ;None
+149;書;Write;しょ;か
+150;曜;Weekday;よう;None
+151;取;Take;しゅ;と
+152;冗;Superfluous;じょう;None
+153;専;Specialty;せん;もっぱ
+154;典;Rule;てん;None
+155;険;Risky;けん;けわ
+156;関;Related;かん;かか, せき
+157;真;Reality;しん;ま
+158;辞;Quit;じ;や
+159;守;Protect;す, しゅ;まも, もり
+160;品;Product;ひん;しな
+161;政;Politics;せい;None
+162;荷;Luggage;か;に
+163;笑;Laugh;しょう;わら, え
+164;急;Hurry;きゅう;いそ
+165;阪;Heights;はん;さか
+166;幸;Happiness;こう;しあわ, さいわ, さち
+167;府;Government;ふ;None
+168;門;Gates;もん;None
+169;園;Garden;えん;None
+170;遠;Far;えん;とお
+171;面;Face;めん;おも, おもて
+172;存;Exist;そん, ぞん;None
+173;証;Evidence;しょう;あかし
+174;弁;Dialect;べん;None
+175;留;Detain;る, りゅう;と
+176;冒;Dare;ぼう;おか
+177;危;Dangerous;き;あぶ, あや
+178;治;Cure;じ, ち;なお
+179;係;Connection;けい;かか, かかり
+180;箱;Box;None;はこ
+181;浴;Bathe;よく;あ
+182;寺;Temple;じ;てら
+183;春;Spring;しゅん;はる
+184;坂;Slope;はん;さか
+185;単;Simple;たん;None
+186;浅;Shallow;せん;あさ
+187;列;Row;れつ;None
+188;式;Ritual;しき;None
+189;帰;Return;き;かえ
+190;昨;Previous;さく;None
+191;毒;Poison;どく;None
+192;昼;Noon;ちゅう;ひる
+193;晩;Night;ばん;None
+194;法;Method;ほう;None
+195;計;Measure;けい;はか
+196;飯;Meal;はん;めし
+197;夫;Husband;ふう, ふ;おっと
+198;丈;Height;じょう;たけ
+199;英;England;えい;None
+200;区;District;く;None
+201;司;Director;し;つかさど
+202;泣;Cry;きゅう;な
+203;勇;Courage;ゆう;いさ
+204;築;Construct;ちく;きず
+205;晴;Clear Up;せい;は
+206;変;Change;へん;か
+207;猫;Cat;None;ねこ
+208;建;Build;けん;た
+209;仏;Buddha;ぶつ;ほとけ
+210;岩;Boulder;がん;いわ
+211;信;Believe;しん;None
+212;秋;Autumn;None;あき
+213;軍;Army;ぐん;None
+214;紀;Account;き;None
+215;希;Wish;き;まれ
+216;念;Thought;ねん;None
+217;的;Target;てき;まと
+218;囲;Surround;い;かこ
+219;頑;Stubborn;がん;None
+220;格;Status;かく;None
+221;技;Skill;ぎ;わざ
+222;季;Seasons;き;None
+223;残;Remainder;ざん;のこ
+224;約;Promise;やく;None
+225;松;Pine;しょう;まつ
+226;完;Perfect;かん;None
+227;参;Participate;さん, しん;まい
+228;材;Lumber;ざい;None
+229;望;Hope;ぼう;のぞ
+230;固;Hard;こ;かた
+231;卒;Graduate;そつ;None
+232;妥;Gentle;だ;None
+233;性;Gender;せい, しょう;None
+234;基;Foundation;き;もと
+235;折;Fold;せつ;お
+236;例;Example;れい;たと
+237;協;Cooperation;きょう;None
+238;周;Circumference;しゅう;まわ
+239;束;Bundle;そく;たば
+240;骨;Bone;こつ;ほね
+241;雰;Atmosphere;ふん;None
+242;術;Art;じゅつ;None
+243;芸;Acting;げい;None
+244;能;Ability;のう;None
+245;輪;Wheel;りん;わ
+246;題;Topic;だい;None
+247;像;Statue;ぞう;None
+248;駅;Station;えき;None
+249;銀;Silver;ぎん;None
+250;標;Signpost;ひょう;しるし
+251;課;Section;か;None
+252;士;Samurai;し;さむらい
+253;願;Request;がん;ねが, ねがい
+254;映;Reflect;えい;うつ, は
+255;館;Public Building;かん;None
+256;問;Problem;もん;と, とん
+257;賞;Prize;しょう;None
+258;練;Practice;れん;ね
+259;詩;Poem;し;うた
+260;然;Nature;ぜん, ねん;しか, さ
+261;鏡;Mirror;きょう;かがみ
+262;福;Luck;ふく;None
+263;宿;Lodge;しゅく;やど
+264;殺;Kill;さつ;ころ
+265;億;Hundred Million;おく;None
+266;熱;Heat;ねつ;あつ
+267;緑;Green;りょく;みどり
+268;養;Foster;よう;やしな
+269;様;Formal Name Title;よう;さま
+270;情;Feeling;じょう;なさけ
+271;感;Feeling;かん;None
+272;料;Fee;りょう;None
+273;疑;Doubt;ぎ;うたが
+274;暗;Dark;あん;くら, くれ
+275;器;Container;き;うつわ
+276;想;Concept;そう;None
+277;選;Choose;せん;えら
+278;橋;Bridge;きょう;はし
+279;整;Arrange;せい;ととの
+280;謝;Apologize;しゃ;あやま
+281;皆;All;かい;みな, みんな
+282;着;Wear;ちゃく;き, つ
+283;温;Warm;おん;あたた
+284;待;Wait;たい;ま
+285;旅;Trip;りょ;たび
+286;族;Tribe;ぞく;None
+287;歯;Tooth;し;は
+288;陽;Sunshine;よう;ひ
+289;合;Suit;ごう, がっ;あ, あい
+290;流;Stream;りゅう, る;なが
+291;泉;Spring;せん;いずみ
+292;球;Sphere;きゅう;たま
+293;短;Short;たん;みじか
+294;根;Root;こん;ね
+295;植;Plant;しょく;う
+296;期;Period Of Time;き;None
+297;第;Ordinal Number Prefix;だい;None
+298;動;Move;どう;うご
+299;都;Metropolis;と, つ;みやこ
+300;商;Merchandise;しょう;あきな
+301;員;Member;いん;None
+302;童;Juvenile;どう;None
+303;島;Island;とう;しま
+304;僕;I;ぼく;None
+305;湯;Hot Water;とう;ゆ
+306;暑;Hot;しょ;あつ
+307;港;Harbor;こう;みなと
+308;庭;Garden;てい;にわ
+309;階;Floor;かい;None
+310;野;Field;や;の
+311;祭;Festival;さい;まつり, まつ
+312;消;Extinguish;しょう;き, け
+313;勉;Exertion;べん;None
+314;倍;Double;ばい;None
+315;深;Deep;しん;ふか
+316;寒;Cold;かん;さむ
+317;登;Climb;とう, と;のぼ
+318;章;Chapter;しょう;None
+319;息;Breath;そく;いき
+320;悪;Bad;あく, お;わる
+321;働;Work;どう;はたら
+322;洋;Western Style;よう;None
+323;波;Wave;は;なみ
+324;戦;War;せん;たたか
+325;伝;Transmit;でん;つた, つて
+326;努;Toil;ど;つと
+327;共;Together;きょう;とも
+328;特;Special;とく;None
+329;別;Separate;べつ;わか
+330;秒;Second;びょう;None
+331;放;Release;ほう;はな, ほう
+332;仲;Relationship;ちゅう;なか
+333;位;Rank;い;くらい
+334;利;Profit;り;き
+335;注;Pour;ちゅう;そそ, さ, つ
+336;拾;Pick Up;None;ひろ
+337;令;Orders;れい;None
+338;育;Nurture;いく;そだ, はぐく
+339;低;Low;てい;ひく
+340;昔;Long Ago;None;むかし
+341;好;Like;こう;す, この
+342;級;Level;きゅう;None
+343;労;Labor;ろう;いたわ
+344;意;Idea;い;None
+345;良;Good;りょう;よ, い
+346;神;God;しん;かみ
+347;追;Follow;つい;お
+348;味;Flavor;み;あじ
+349;初;First;しょ;はじ, はつ, そ, ぞ
+350;指;Finger;し;ゆび, さ
+351;命;Fate;めい, みょう;いのち
+352;老;Elderly;ろう;None
+353;便;Convenience;べん, びん;たよ
+354;争;Conflict;そう;あらそ
+355;競;Compete;きょう;きそ
+356;岸;Coast;がん;きし
+357;成;Become;せい;な
+358;功;Achievement;こう;None
+359;符;Token;ふ;None
+360;渇;Thirst;かつ;かわ
+361;翌;The Following;よく;None
+362;適;Suitable;てき;None
+363;購;Subscription;こう;None
+364;盗;Steal;とう;ぬす
+365;匂;Scent;None;にお
+366;乏;Scarce;ぼう;とぼ
+367;押;Push;おう;お
+368;延;Prolong;えん;のば, の
+369;貧;Poor;びん, ひん;まず
+370;快;Pleasant;かい;こころよ
+371;遊;Play;ゆう;あそ
+372;枕;Pillow;しん;まくら
+373;撮;Photograph;さつ;と
+374;懐;Nostalgia;かい;なつ
+375;婚;Marriage;こん;None
+376;覧;Look At;らん;None
+377;系;Lineage;けい;None
+378;漏;Leak;ろう;も
+379;照;Illuminate;しょう;て
+380;越;Go Beyond;えつ;こ
+381;浮;Float;ふ;う, うわ
+382;旗;Flag;き;はた
+383;版;Edition;はん;None
+384;預;Deposit;よ;あず
+385;飾;Decorate;しょく;かざ
+386;騒;Boisterous;そう;さわ
+387;背;Back;はい;せ, そむ
+388;魅;Alluring;み;None
+389;更;Again;こう;さら, ふ
+390;烈;Violent;れつ;はげ
+391;促;Urge;そく;うなが
+392;閣;The Cabinet;かく;None
+393;緊;Tense;きん;None
+394;詰;Stuffed;きつ, きち;つ, づ
+395;街;Street;がい, かい;まち
+396;催;Sponsor;さい;もよお
+397;臣;Servant;しん, じん;None
+398;索;Search;さく;None
+399;怖;Scary;ふ;こわ
+400;請;Request;せい, しん, しょう;う, こ
+401;宗;Religion;しゅう;None
+402;監;Oversee;かん;None
+403;航;Navigation;こう;None
+404;雄;Male;ゆう;おす
+405;韓;Korea;かん;None
+406;江;Inlet;こう;え
+407;猛;Fierce;もう;None
+408;恐;Fear;きょう;おそ, こわ
+409;欧;Europe;おう;None
+410;乾;Dry;かん;かわ, ほ
+411;診;Diagnose;しん;み
+412;娘;Daughter;None;むすめ
+413;杯;Cup Of Liquid;はい;None
+414;僚;Colleague;りょう;None
+415;督;Coach;とく;None
+416;壊;Break;かい;こわ
+417;板;Board;はん;いた
+418;宴;Banquet;えん;うたげ
+419;寄;Approach;き;よ
+420;添;Append;てん;そ
+421;積;Accumulate;せき;つ
+422;略;Abbreviation;りゃく;None
+423;婦;Wife;ふ;None
+424;傘;Umbrella;さん;かさ
+425;券;Ticket;けん;None
+426;妙;Strange;みょう;たえ
+427;庫;Storage;こ;くら
+428;隊;Squad;たい;None
+429;精;Spirit;せい;None
+430;移;Shift;い;うつ
+431;逆;Reverse;ぎゃく;さか
+432;録;Record;ろく;None
+433;潔;Pure;けつ;いさぎよ
+434;清;Pure;せい, しょう, しん;きよ
+435;衆;Populace;しゅう;None
+436;奇;Odd;き;None
+437;麗;Lovely;れい;うるわ
+438;並;Line Up;へい;なら, なみ
+439;幼;Infancy;よう;おさな
+440;稚;Immature;ち;None
+441;巨;Giant;きょ;None
+442;凍;Frozen;とう;こお, こご
+443;絶;Extinction;ぜつ;た
+444;程;Extent;てい;ほど
+445;博;Exhibition;はく, ばく;None
+446;修;Discipline;しゅう;おさ
+447;微;Delicate;び;かす
+448;処;Deal With;しょ;ところ
+449;冷;Cool;れい;つめ, ひ, さ
+450;憲;Constitution;けん;None
+451;児;Child;じ;こ
+452;益;Benefit;えき;None
+453;綺;Beautiful;き;None
+454;浜;Beach;ひん;はま
+455;撃;Attack;げき;う
+456;攻;Aggression;こう;せ
+457;屈;Yield;くつ;かが
+458;悩;Worry;のう;なや
+459;織;Weave;しき, しょく;お
+460;訪;Visit;ほう;たず, おとず
+461;迫;Urge;はく;せま
+462;締;Tighten;てい;し
+463;濃;Thick;のう;こ
+464;症;Symptom;しょう;None
+465;胃;Stomach;い;None
+466;段;Steps;だん;None
+467;暇;Spare Time;か;ひま, いとま
+468;眠;Sleep;みん;ねむ
+469;靴;Shoes;か;くつ
+470;就;Settle In;しゅう;つ
+471;給;Salary;きゅう;たま
+472;途;Route;と;None
+473;退;Retreat;たい;しりぞ, ひ, ど, の
+474;痛;Pain;つう;いた
+475;惑;Misguided;わく;まど
+476;貸;Lend;たい;か
+477;誘;Invite;ゆう;さそ
+478;健;Healthy;けん;None
+479;郎;Guy;ろう;None
+480;極;Extreme;きょく, ごく;きわ
+481;端;Edge;たん;はし, はた
+482;康;Ease;こう;None
+483;睡;Drowsy;すい;None
+484;腹;Belly;ふく;はら, なか
+485;招;Beckon;しょう;まね
+486;迷;Astray;めい;まよ
+487;昇;Ascend;しょう;のぼ
+488;怒;Angry;ど;おこ, いか
+489;筆;Writing Brush;ひつ;ふで
+490;汗;Sweat;かん;あせ
+491;怪;Suspicious;かい, け;あや
+492;突;Stab;とつ;つ
+493;刺;Stab;し;さ
+494;振;Shake;しん;ふ
+495;印;Seal;いん;しるし
+496;貯;Savings;ちょ;たくわ
+497;河;River;か;かわ
+498;復;Restore;ふく;None
+499;豚;Pork;とん;ぶた
+500;従;Obey;じゅう;したが
+501;針;Needle;しん;はり
+502;郵;Mail;ゆう;None
+503;鉛;Lead;えん;なまり
+504;授;Instruct;じゅ;さず
+505;徴;Indication;ちょう;None
+506;我;I;が;われ
+507;障;Hinder;しょう;さわ
+508;占;Fortune;せん;うらな, し
+509;激;Fierce;げき;はげ
+510;励;Encourage;れい;はげ
+511;往;Depart;おう;None
+512;造;Create;ぞう;つく
+513;創;Create;そう;None
+514;較;Contrast;かく, こう;None
+515;故;Circumstance;こ;ゆえ
+516;討;Chastise;とう;None
+517;菓;Cake;か;None
+518;獣;Beast;じゅう;けもの
+519;独;Alone;どく;ひと
+520;再;Again;さ, さい;ふたた
+521;接;Adjoin;せつ;つ
+522;渡;Transit;と;わた
+523;補;Supplement;ほ;おぎな
+524;訴;Sue;そ;うった
+525;絞;Strangle;こう;し, しぼ
+526;影;Shadow;えい;かげ
+527;構;Set Up;こう;かま
+528;捜;Search;そう;さが
+529;巻;Scroll;かん;ま
+530;景;Scene;けい;None
+531;替;Replace;たい;か
+532;豊;Plentiful;ほう;ゆた
+533;肥;Obese;ひ;こ, こえ
+534;限;Limit;げん;かぎ
+535;訟;Lawsuit;しょう;None
+536;含;Include;がん;ふく
+537;模;Imitation;も, ぼ;None
+538;隠;Hide;いん;かく
+539;掛;Hang;がい;か
+540;与;Give;よ;あた
+541;満;Full;まん;み
+542;鮮;Fresh;せん;あざ
+543;抜;Extract;ばつ, はつ, はい;ぬ
+544;効;Effective;こう;き
+545;響;Echo;きょう;ひび
+546;況;Condition;きょう;None
+547;輩;Comrade;はい;None
+548;候;Climate;こう;None
+549;捕;Catch;ほ;つか, とら
+550;捉;Catch;そく;とら
+551;属;Belong;ぞく;None
+552;票;Ballot;ひょう;None
+553;逮;Apprehend;たい;None
+554;居;Alive;きょ;い
+555;慣;Accustomed;かん;な
+556;腰;Waist;よう;こし
+557;輸;Transport;ゆ;None
+558;触;Touch;しょく;さわ, ふ
+559;株;Stocks;しゅ;かぶ
+560;肩;Shoulder;けん;かた
+561;供;Servant;きょう;とも, そな
+562;販;Sell;はん;None
+563;量;Quantity;りょう;はか
+564;質;Quality;しつ, しち;None
+565;載;Publish;さい;の
+566;管;Pipe;かん;くだ
+567;狭;Narrow;きょう;せま, せば
+568;型;Model;けい;かた
+569;武;Military;ぶ, む;たけ
+570;述;Mention;じゅつ;の
+571;製;Manufacture;せい;None
+572;環;Loop;かん;None
+573;視;Look At;し;み
+574;層;Layer;そう;None
+575;展;Expand;てん;のぶ, のび
+576;象;Elephant;ぞう, しょう;None
+577;差;Distinction;さ;さ
+578;違;Different;い;ちが
+579;届;Deliver;None;とど
+580;祝;Celebrate;しゅく, しゅう;いわ
+581;担;Carry;たん;にな, かつ
+582;燃;Burn;ねん;も
+583;境;Boundary;きょう;さかい
+584;腕;Arm;わん;うで
+585;額;Amount;がく;ひたい
+586;庁;Agency;ちょう;None
+587;看;Watch Over;かん;None
+588;幹;Tree Trunk;かん;みき
+589;師;Teacher;し;None
+590;沢;Swamp;たく;さわ
+591;優;Superior;ゆう;やさ, すぐ
+592;張;Stretch;ちょう;は
+593;準;Standard;じゅん;None
+594;規;Standard;き;None
+595;則;Rule;そく;のっと
+596;備;Provide;び;そな
+597;現;Present Time;げん;あらわ
+598;演;Perform;えん;None
+599;収;Obtain;しゅう;おさ
+600;乳;Milk;にゅう;ちち
+601;贅;Luxury;ぜい;いぼ
+602;革;Leather;かく;かわ
+603;導;Lead;どう;みちび
+604;律;Law;りつ;None
+605;裁;Judge;さい;さば, た
+606;宅;House;たく;None
+607;停;Halt;てい;None
+608;俳;Haiku;はい;None
+609;秀;Excel;しゅう;ひい
+610;職;Employment;しょく;None
+611;割;Divide;かつ;わり, わ
+612;鬼;Demon;き;おに
+613;護;Defend;ご;None
+614;城;Castle;じょう;しろ
+615;施;Carry Out;し;ほどこ
+616;崎;Cape;き;さき
+617;呼;Call;こ;よ
+618;藤;Wisteria;とう, どう;ふじ
+619;観;View;かん;み
+620;副;Vice;ふく;None
+621;価;Value;か;あたい
+622;値;Value;ち;ね, あたい
+623;統;Unite;とう;す
+624;脱;Undress;だつ;ぬ
+625;領;Territory;りょう;None
+626;過;Surpass;か;す, あやま
+627;吸;Suck;きゅう;す
+628;袖;Sleeve;しゅう;そで
+629;宮;Shinto Shrine;きゅう;みや
+630;応;Respond;おう;None
+631;域;Region;いき;None
+632;置;Put;ち;お
+633;提;Present;てい;None
+634;策;Plan;さく;None
+635;案;Plan;あん;None
+636;罰;Penalty;ばつ;ばっ
+637;坊;Monk;ぼう;None
+638;営;Manage;えい;いとな
+639;寝;Lie Down;しん;ね
+640;示;Indicate;じ, し;しめ
+641;諦;Give Up;てい;あきら
+642;勢;Force;せい, せ;いきお
+643;姿;Figure;し;すがた
+644;費;Expense;ひ;つい
+645;各;Each;かく;おの
+646;賀;Congratulations;が;None
+647;状;Condition;じょう;None
+648;誕;Birth;たん;None
+649;態;Appearance;たい;わざ
+650;援;Aid;えん;None
+651;総;Whole;そう;None
+652;解;Untie;かい;と
+653;税;Tax;ぜい;None
+654;務;Task;む;つと
+655;派;Sect;は;None
+656;権;Rights;けん;None
+657;義;Righteousness;ぎ;None
+658;資;Resources;し;None
+659;認;Recognize;にん;みと
+660;挙;Raise;きょ;あ
+661;企;Plan;き;くわだ
+662;際;Occasion;さい;きわ
+663;件;Matter;けん;None
+664;審;Judge;しん;None
+665;判;Judge;はん;None
+666;査;Inspect;さ;None
+667;増;Increase;ぞう;ふ, ま
+668;岡;Hill;None;おか
+669;検;Examine;けん;None
+670;評;Evaluate;ひょう;None
+671;設;Establish;せつ;もう
+672;羨;Envy;せん;うらや
+673;敵;Enemy;てき;かな, かたき
+674;素;Element;そ, す;None
+675;任;Duty;にん;まか
+676;断;Cut Off;だん;ことわ, た
+677;批;Criticism;ひ;None
+678;制;Control;せい;None
+679;省;Conserve;しょう, せい;はぶ
+680;委;Committee;い;None
+681;済;Come To An End;さい;す
+682;条;Clause;じょう;None
+683;責;Blame;せき;せ
+684;敷;Spread;ふ;しき, し
+685;鋭;Sharp;えい;するど
+686;獲;Seize;かく;え
+687;犠;Sacrifice;ぎ;None
+688;顧;Review;こ;かえり
+689;駐;Resident;ちゅう;None
+690;排;Reject;はい;None
+691;褒;Praise;ほう;ほ
+692;携;Portable;けい;たずさ
+693;柱;Pillar;ちゅう;はしら
+694;巡;Patrol;じゅん;めぐ
+695;繁;Overgrown;はん;しげ
+696;隣;Neighbor;りん;となり
+697;殖;Multiply;しょく;ふ
+698;殿;Milord;でん;との, どの
+699;茂;Luxuriant;も;しげ
+700;誉;Honor;よ;ほ
+701;嬉;Glad;き;うれ
+702;俊;Genius;しゅん;None
+703;駆;Gallop;く;か
+704;頻;Frequent;ひん;しき
+705;孝;Filial Piety;こう;None
+706;雅;Elegant;が;みや
+707;剤;Dose;ざい;None
+708;堀;Ditch;くつ;ほり
+709;薄;Dilute;はく;うす
+710;兼;Concurrently;けん;か
+711;戒;Commandment;かい;いまし
+712;衝;Collide;しょう;つ
+713;唱;Chant;しょう;とな
+714;吹;Blow;すい;ふ
+715;敏;Alert;びん;None
+716;祉;Welfare;し;None
+717;壁;Wall;へき;かべ
+718;甲;Turtle Shell;こう, かん;か
+719;鋼;Steel;こう;はがね
+720;奪;Rob;だつ;うば
+721;稲;Rice Plant;None;いね, いな
+722;拒;Refuse;きょ;こば
+723;勧;Recommend;かん;すす
+724;圏;Range;けん;None
+725;隆;Prosperity;りゅう;None
+726;斐;Patterned;い;None
+727;項;Paragraph;こう;None
+728;片;One Sided;へん;かた
+729;阜;Mound;ふ;None
+730;謙;Modesty;けん;None
+731;躍;Leap;やく;おど
+732;慎;Humility;しん;つつし
+733;御;Honorable;ご;お
+734;邦;Home Country;ほう;くに
+735;仙;Hermit;せん;None
+736;銃;Gun;じゅう;None
+737;枠;Frame;None;わく
+738;群;Flock;ぐん;む, むら
+739;免;Excuse;めん;まぬか
+740;雇;Employ;こ;やと
+741;譲;Defer;じょう;ゆず
+742;棋;Chess Piece;き;ご
+743;埼;Cape;き;さい
+744;鈴;Buzzer;りん;すず
+745;埋;Bury;まい;う
+746;岐;Branch Off;き, ぎ;None
+747;渋;Bitter;じゅう;しぶ
+748;充;Allocate;じゅう;あ, み
+749;控;Abstain;こう;ひか
+750;盤;Tray;ばん;None
+751;緒;Together;しょ;お
+752;称;Title;しょう;とな, たた, ほめ
+753;懸;Suspend;けん;か
+754;抑;Suppress;よく;おさ
+755;繰;Spin;そう;く
+756;還;Send Back;かん;かえ
+757;択;Select;たく;えら
+758;贈;Presents;ぞう;おく
+759;娠;Pregnant;しん;None
+760;妊;Pregnant;にん;None
+761;奏;Play Music;そう;かな
+762;緩;Loose;かん;ゆる
+763;傾;Lean;けい;かたむ
+764;膝;Knee;None;ひざ
+765;併;Join;へい;あわ
+766;奥;Interior;おう;おく
+767;扱;Handle;きゅう;あつか
+768;逃;Escape;とう;に, のが, の
+769;刊;Edition;かん;None
+770;描;Draw;びょう;か, えが
+771;避;Dodge;ひ;さ, よ
+772;致;Do;ち;いた
+773;需;Demand;じゅ;None
+774;却;Contrary;きゃく;かえって
+775;託;Consign;たく;かこ
+776;慮;Consider;りょ;おもんぱく, おもんぱか
+777;房;Cluster;ぼう;ふさ
+778;賂;Bribe;ろ;None
+779;賄;Bribe;わい;まかな
+780;宜;Best Regards;ぎ;よろ
+781;齢;Age;れい;よわい
+782;伴;Accompany;はん;ともな
+783;削;Whittle Down;さく;けず
+784;跡;Traces;せき;あと
+785;執;Tenacious;しゅう, しつ;と
+786;闘;Struggle;とう;たたか
+787;串;Skewer;None;くし
+788;昭;Shining;しょう;None
+789;戻;Return;れい;もど
+790;抵;Resist;てい;None
+791;償;Reparation;しょう;つぐな
+792;募;Recruit;ぼ;つの
+793;刑;Punish;けい;None
+794;契;Pledge;けい;None
+795;兆;Omen;ちょう;きざ
+796;臨;Look To;りん;のぞ
+797;聴;Listen;ちょう;き
+798;旬;In Season;しゅん, じゅん;None
+799;抱;Hug;ほう;だ, かか, いだ
+800;跳;Hop;ちょう;と, は
+801;湾;Gulf;わん;None
+802;香;Fragrance;こう, きょう;かお, か
+803;漁;Fishing;ぎょ, りょう;あさ
+804;恵;Favor;え, けい;めぐ
+805;眉;Eyebrows;み;まゆ
+806;爆;Explode;ばく;は
+807;掲;Display;けい;かか
+808;遣;Dispatch;けん;つか, や
+809;崩;Crumble;ほう;くず
+810;抗;Confront;こう;あらが
+811;葬;Burial;そう;ほうむ
+812;弾;Bullet;だん;ひ, はず, たま
+813;塁;Base;るい;None
+814;陣;Army Base;じん;None
+815;狙;Aim;そ;ねら
+816;患;Afflicted;かん;わずら
+817;幅;Width;ふく;はば
+818;超;Ultra;ちょう;こ
+819;頼;Trust;らい;たの, たよ
+820;貿;Trade;ぼう;None
+821;甘;Sweet;かん;あま
+822;姓;Surname;せい, しょう;None
+823;伸;Stretch;しん;の
+824;踏;Step;とう;ふ
+825;縄;Rope;じょう;なわ
+826;依;Reliant;い;よ
+827;及;Reach;きゅう;およ
+828;摘;Pluck;てき;つ
+829;沖;Open Sea;ちゅう;おき
+830;献;Offer;けん, こん;たてまつ
+831;廃;Obsolete;はい;すた
+832;核;Nucleus;かく;None
+833;奈;Nara;な;None
+834;維;Maintain;い;None
+835;遺;Leave Behind;い;のこ
+836;継;Inherit;けい;つ
+837;療;Heal;りょう;None
+838;津;Haven;しん;つ
+839;般;Generally;はん;None
+840;旧;Former;きゅう;None
+841;牙;Fang;げ, が;きば
+842;換;Exchange;かん;か
+843;鹿;Deer;ろく;か, しか
+844;伎;Deed;き;わざ
+845;債;Debt;さい;None
+846;舞;Dance;ぶ;まい, ま
+847;将;Commander;しょう;None
+848;盟;Alliance;めい;None
+849;諾;Agreement;だく;None
+850;酢;Vinegar;さく;す
+851;厄;Unlucky;やく;None
+852;亀;Turtle;き;かめ
+853;破;Tear;は;やぶ
+854;剣;Sword;けん;つるぎ
+855;滞;Stagnate;たい;とどこお
+856;醤;Soy Sauce;しょう;None
+857;汁;Soup;じゅう;しる
+858;遅;Slow;ち;おそ, おく
+859;恥;Shame;ち;は, はじ
+860;為;Sake;い;ため, な, す
+861;獄;Prison;ごく;None
+862;鍋;Pot;か;なべ
+863;払;Pay;ふつ;はら
+864;己;Oneself;こ, き;おのれ
+865;油;Oil;ゆ;あぶら
+866;互;Mutual;ご;たが
+867;測;Measure;そく;はか
+868;寿;Lifespan;じゅ, す;ことぶき
+869;講;Lecture;こう;None
+870;湖;Lake;こ;みずうみ
+871;介;Jammed In;かい;None
+872;紹;Introduce;しょう;None
+873;彼;He;ひ;かれ, かの
+874;炎;Flame;えん;ほのお
+875;酔;Drunk;すい;よ
+876;舎;Cottage;しゃ;None
+877;銅;Copper;どう;あかがね
+878;杉;Cedar;None;すぎ
+879;彫;Carve;ちょう;ほ
+880;噌;Boisterous;そ;None
+881;熊;Bear;None;くま
+882;拝;Worship;はい;おが
+883;勤;Work;きん;つと
+884;縦;Vertical;じゅう;たて
+885;貴;Valuable;き;とうと
+886;吐;Throw Up;と;は, つ
+887;痩;Thin;そう;や
+888;粋;Stylish;すい;いき
+889;隷;Slave;れい;None
+890;縮;Shrink;しゅく;ちぢ, ちじ
+891;射;Shoot;しゃ;い, さ, う
+892;沿;Run Alongside;えん;そ
+893;腐;Rot;ふ;くさ
+894;丼;Rice Bowl;どん;どんぶり
+895;薦;Recommend;せん;すす
+896;純;Pure;じゅん;None
+897;芋;Potato;None;いも
+898;源;Origin;げん;みなもと
+899;誤;Mistake;ご;あやま
+900;磁;Magnet;じ;None
+901;損;Loss;そん;そこ
+902;臓;Internal Organs;ぞう;None
+903;推;Infer;すい;お
+904;聖;Holy;せい;None
+905;奴;Dude;ど;やつ
+906;降;Descend;こう;お, ふ
+907;歓;Delight;かん;None
+908;紅;Deep Red;こう;べに, くれない
+909;幕;Curtain;まく, ばく;とばり
+910;承;Consent;しょう;うけたまわ
+911;爪;Claw;そう;つま, つめ
+912;刻;Carve;こく;きざ
+913;揮;Brandish;き;None
+914;枝;Branch;し;えだ
+915;豆;Beans;とう;まめ
+916;窓;Window;そう;まど
+917;諸;Various;しょ;もろ
+918;納;Supply;のう;おさ, なっ
+919;糖;Sugar;とう;None
+920;蔵;Storehouse;ぞう;くら
+921;蒸;Steam;じょう;む
+922;簡;Simplicity;かん;None
+923;砂;Sand;さ;すな
+924;噂;Rumor;そん;うわさ
+925;熟;Ripen;じゅく;う
+926;尊;Revered;そん;とうと, たっと
+927;敬;Respect;けい;うやま
+928;賃;Rent;ちん;None
+929;宣;Proclaim;せん;のたま
+930;盛;Pile;せい, じょう;も, さか
+931;否;No;ひ;いな, いや
+932;筋;Muscle;きん;すじ
+933;操;Manipulate;そう;あやつ, みさお
+934;誌;Magazine;し;None
+935;肺;Lung;はい;None
+936;忠;Loyalty;ちゅう;None
+937;暮;Livelihood;ぼ;く
+938;拡;Extend;かく;ひろ
+939;皇;Emperor;こう;None
+940;異;Differ;い;こと
+941;漠;Desert;ばく;None
+942;垂;Dangle;すい;た
+943;閉;Closed;へい;し, と
+944;裏;Backside;り;うら
+945;著;Author;ちょ;いちじる, あらわ
+946;装;Attire;そう, しょう;よそお
+947;灰;Ashes;かい;はい
+948;傷;Wound;しょう;きず, いた
+949;迎;Welcome;げい;むか
+950;暖;Warm;だん;あたた
+951;欲;Want;よく;ほ
+952;訳;Translation;やく;わけ
+953;捨;Throw Away;しゃ;す
+954;厳;Strict;げん, ごん;きび, おごそ
+955;秘;Secret;ひ;ひ
+956;密;Secrecy;みつ;ひそ
+957;桜;Sakura;おう, よう;さくら
+958;雑;Random;ざつ, ぞう;None
+959;序;Preface;じょ;つい, ついで
+960;党;Party;とう;None
+961;久;Long Time;きゅう, く;ひさ
+962;恩;Kindness;おん;None
+963;興;Interest;きょう, こう;None
+964;志;Intention;し;こころざし
+965;採;Gather;さい;と
+966;液;Fluid;えき;None
+967;眼;Eyeball;がん;め
+968;績;Exploits;せき;None
+969;永;Eternity;えい;None
+970;卵;Egg;らん;たまご
+971;染;Dye;せん;しみ, そ, し
+972;複;Duplicate;ふく;None
+973;飼;Domesticate;し;か
+974;汚;Dirty;お;よご, きたな, けが
+975;机;Desk;き;つくえ
+976;衛;Defense;えい;None
+977;込;Crowded;None;こ
+978;銭;Coin;せん;ぜに
+979;祖;Ancestor;そ;None
+980;賛;Agree;さん;None
+981;酸;Acid;さん;す
+982;倉;Warehouse;そう;くら
+983;徳;Virtue;とく;None
+984;脈;Vein;みゃく;None
+985;菜;Vegetable;さい;な
+986;掃;Sweep;そう;は
+987;驚;Surprised;きょう;おどろ
+988;偵;Spy;てい;None
+989;嘆;Sigh;たん;なげ
+990;華;Showy;か;はな
+991;散;Scatter;さん;ち
+992;富;Rich;ふ;と, とみ
+993;似;Resemble;ね, じ;に
+994;救;Rescue;きゅう;すく
+995;既;Previously;き;すで
+996;粉;Powder;ふん;こな, こ
+997;棒;Pole;ぼう;None
+998;普;Normal;ふ;None
+999;巣;Nest;そう;す
+1000;泥;Mud;でい;どろ
+1001;鑑;Model;かん;None
+1002;豪;Luxurious;ごう;None
+1003;探;Look For;たん;さが, さぐ
+1004;陸;Land;りく;None
+1005;編;Knit;へん;あ
+1006;尋;Inquire;じん;たず, ひろ
+1007;幾;How Many;き;いく
+1008;墓;Grave;ぼ;はか
+1009;孫;Grandchild;そん;まご
+1010;貨;Freight;か;None
+1011;除;Exclude;じょ, じ;のぞ
+1012;均;Equal;きん;ひと
+1013;融;Dissolve;ゆう;None
+1014;径;Diameter;けい;None
+1015;離;Detach;り;はな
+1016;廊;Corridor;ろう;None
+1017;帯;Belt;たい;おび
+1018;搬;Transport;はん;None
+1019;墳;Tomb;ふん;None
+1020;峰;Summit;ほう;みね
+1021;奮;Stirred Up;ふん;ふる
+1022;軌;Rut;き;None
+1023;壮;Robust;そう;None
+1024;訂;Revise;てい;None
+1025;亭;Restaurant;てい;None
+1026;簿;Record Book;ぼ;None
+1027;漫;Manga;まん;None
+1028;仰;Look Up To;ぎょう, こう;あお
+1029;銘;Inscription;めい;None
+1030;涯;Horizon;がい;はて
+1031;鬱;Gloom;うつ;None
+1032;翻;Flip;ほん;ひるがえ
+1033;疫;Epidemic;えき;None
+1034;后;Empress;こう, ご;きさき
+1035;堤;Embankment;てい;つつみ
+1036;淀;Eddy;None;よど
+1037;漂;Drift;ひょう;ただよ
+1038;堰;Dam;えん;せき
+1039;晶;Crystal;しょう;None
+1040;蟹;Crab;None;かに
+1041;廷;Courts;てい;None
+1042;諮;Consult;し;はか
+1043;彰;Clear;しょう;None
+1044;唐;China;とう;None
+1045;伯;Chief;はく, お;None
+1046;洞;Cave;どう;ほら
+1047;駄;Burdensome;だ, た;None
+1048;把;Bundle;は, わ;None
+1049;鰐;Alligator;None;わに
+1050;巧;Adept;こう;うま, たく
+1051;偶;Accidentally;ぐう;たま
+1052;潤;Watered;じゅん;うるお, うる
+1053;俗;Vulgar;ぞく;None
+1054;誓;Vow;せい;ちか
+1055;征;Subjugate;せい;None
+1056;剛;Sturdy;ごう;None
+1057;唯;Solely;ゆい;ただ
+1058;紫;Purple;し;むらさき
+1059;刈;Prune;None;か
+1060;妃;Princess;ひ;None
+1061;陶;Pottery;とう;None
+1062;壇;Podium;だん;None
+1063;抽;Pluck;ちゅう;None
+1064;珠;Pearl;しゅ;たま
+1065;尼;Nun;に;あま
+1066;桑;Mulberry;そう;くわ
+1067;隔;Isolate;かく;へだ
+1068;勘;Intuition;かん;None
+1069;劣;Inferiority;れつ;おと
+1070;浸;Immersed;しん;ひた
+1071;陛;Highness;へい;None
+1072;礎;Foundation;そ;いしずえ
+1073;淡;Faint;たん;あわ
+1074;奨;Encourage;しょう;None
+1075;衰;Decline;すい;おとろ
+1076;拓;Cultivation;たく;None
+1077;鶴;Crane;かく;つる
+1078;謀;Conspire;ぼう;はか
+1079;慌;Confused;こう;あわ
+1080;悟;Comprehension;ご;さと
+1081;駒;Chess Piece;く;こま
+1082;覆;Capsize;ふく;おお, くつがえ
+1083;煮;Boil;しゃ;に
+1084;拘;Arrest;こう;かか
+1085;概;Approximation;がい;おおむ
+1086;脅;Threaten;きょう;おど, おびや
+1087;迅;Swift;じん;None
+1088;餓;Starve;が;う
+1089;飢;Starve;き;う
+1090;班;Squad;はん;None
+1091;蛇;Snake;じゃ;へび
+1092;盾;Shield;じゅん;たて
+1093;耐;Resistant;たい;た
+1094;悔;Regret;かい;くや, く
+1095;憶;Recollection;おく;None
+1096;輝;Radiance;き;かがや
+1097;貼;Paste;ちょう;は
+1098;塗;Paint;と;ぬ
+1099;帳;Notebook;ちょう;とばり
+1100;蚊;Mosquito;None;か
+1101;溶;Melt;よう;と
+1102;畜;Livestock;ちく;None
+1103;灯;Lamp;とう;あかり, とも
+1104;辱;Humiliate;じょく;はずかし
+1105;騎;Horse;き;None
+1106;麻;Hemp;ま;あさ
+1107;穫;Harvest;かく;None
+1108;霜;Frost;None;しも
+1109;尽;Exhaust;じん;つ
+1110;斜;Diagonal;しゃ;なな
+1111;闇;Darkness;あん, おん;やみ
+1112;踊;Dance;よう;おど
+1113;培;Cultivate;ばい;つちか
+1114;隙;Crevice;げき;すき
+1115;彩;Coloring;さい;いろど
+1116;賢;Clever;けん;かしこ
+1117;鉢;Bowl;はち;None
+1118;咲;Blossom;しょう;さ
+1119;殴;Assault;おう;なぐ
+1120;脇;Armpit;きょう;わき
+1121;蓄;Amass;ちく;たくわ
+1122;遂;Accomplish;すい;と, つい
+1123;柳;Willow;りゅう;やなぎ
+1124;芯;Wick;しん;None
+1125;巾;Towel;きん;None
+1126;胴;Torso;どう;None
+1127;畳;Tatami Mat;じょう;たたみ
+1128;粘;Sticky;ねん;ねば
+1129;砕;Smash;さい;くだ
+1130;尺;Shaku;しゃく;None
+1131;憩;Rest;けい;いこ
+1132;爽;Refreshing;そう;さわ
+1133;虹;Rainbow;こう;にじ
+1134;哀;Pathetic;あい;あわ
+1135;婆;Old Woman;ば;ばあ
+1136;掌;Manipulate;しょう;てのひら
+1137;唇;Lips;しん;くちびる
+1138;如;Likeness;じょ;ごと
+1139;詐;Lie;さ;いつわ
+1140;伊;Italy;い;だ
+1141;挿;Insert;そう;さ
+1142;佐;Help;さ;None
+1143;憎;Hate;ぞう;にく
+1144;帽;Hat;ぼう;None
+1145;恨;Grudge;こん;うら
+1146;扉;Front Door;ひ;とびら
+1147;扇;Folding Fan;せん;おうぎ, あお
+1148;霧;Fog;む;きり
+1149;塀;Fence;へい;None
+1150;滴;Drip;てき;したた, しずく
+1151;欺;Deceit;ぎ;あざむ
+1152;墜;Crash;つい;None
+1153;粧;Cosmetics;しょう;None
+1154;炊;Cook;すい;た
+1155;崖;Cliff;がい;がけ
+1156;瞭;Clear;りょう;None
+1157;箸;Chopsticks;ちゃく;はし
+1158;幣;Cash;へい;None
+1159;零;Zero;れい;こぼ
+1160;歳;Years Old;さい, せい;None
+1161;阻;Thwart;そ;はば
+1162;錬;Tempering;れん;ね
+1163;租;Tariff;そ;None
+1164;帝;Sovereign;てい;みかど
+1165;斬;Slice;ざん;き
+1166;黙;Shut Up;もく;だま
+1167;架;Shelf;か;か
+1168;幽;Secluded;ゆう;None
+1169;俵;Sack;ひょう;たわら
+1170;寧;Rather;ねい;むし
+1171;瞳;Pupil;とう, どう;ひとみ
+1172;誇;Pride;こ;ほこ
+1173;棟;Pillar;とう;None
+1174;猿;Monkey;えん;さる
+1175;庄;Manor;しょう;None
+1176;盆;Lantern Festival;ぼん;None
+1177;鍵;Key;けん;かぎ
+1178;吾;I;ご;わが
+1179;穂;Head of Plant;すい;ほ
+1180;癖;Habit;へき;くせ
+1181;碁;Go;ご;None
+1182;鍛;Forge;たん;きた
+1183;鈍;Dull;どん;にぶ, のろ
+1184;鳩;Dove;く;はと
+1185;寮;Dormitory;りょう;None
+1186;魔;Devil;ま;None
+1187;綿;Cotton;めん;わた
+1188;涼;Cool;りょう;すず
+1189;菊;Chrysanthemum;きく;None
+1190;椅;Chair;い;None
+1191;孔;Cavity;こう;あな
+1192;穏;Calm;おん;おだ
+1193;泡;Bubbles;ほう;あわ
+1194;瞬;Blink;しゅん;またた
+1195;墨;Black Ink;None;すみ
+1196;井;Well;しょう;い
+1197;滝;Waterfall;None;たき
+1198;凶;Villain;きょう;None
+1199;卓;Table;たく;None
+1200;硬;Stiff;こう;かた
+1201;眺;Stare;ちょう;なが
+1202;矛;Spear;む;ほこ
+1203;魂;Soul;こん;たましい
+1204;肌;Skin;き;はだ
+1205;陰;Shade;いん;かげ
+1206;磨;Polish;ま;みが
+1207;裸;Naked;ら;はだか
+1208;嬢;Miss;じょう;むすめ
+1209;狂;Lunatic;きょう;くる
+1210;塊;Lump;かい;かたまり
+1211;澄;Lucidity;ちょう;す
+1212;脚;Leg;きゃく;あし
+1213;狩;Hunt;しゅ;か
+1214;溝;Gutter;こう;みぞ
+1215;霊;Ghost;れい, りょう;None
+1216;賭;Gamble;None;か
+1217;翔;Fly;しょう;かけ, と
+1218;疲;Exhausted;ひ;つか
+1219;稼;Earnings;か;かせ
+1220;湿;Damp;しつ;しめ
+1221;呪;Curse;じゅ;のろ
+1222;塾;Cram School;じゅく;None
+1223;也;Considerably;や;なり
+1224;曇;Cloudy;None;くも
+1225;暦;Calendar;れき;こよみ
+1226;嫁;Bride;か;よめ, とつ
+1227;舟;Boat;しゅう;ふね, ふな
+1228;鐘;Bell;しょう;かね
+1229;菌;Bacteria;きん;None
+1230;頃;Approximate;None;ころ, ごろ
+1231;翼;Wing;よく;つばさ
+1232;朱;Vermillion;しゅ;あけ
+1233;塔;Tower;とう;None
+1234;雷;Thunder;らい;かみなり
+1235;涙;Teardrop;るい;なみだ
+1236;嵐;Storm;None;あらし
+1237;芽;Sprout;が;め
+1238;辛;Spicy;しん;から, つら
+1239;匹;Small Animal;None;ひき
+1240;叫;Shout;きょう;さけ
+1241;棚;Shelf;ほう;たな
+1242;叱;Scold;None;しか
+1243;侍;Samurai;None;さむらい
+1244;謎;Riddle;None;なぞ
+1245;娯;Recreation;ご;None
+1246;挨;Push Open;あい;None
+1247;姫;Princess;None;ひめ
+1248;梨;Pear;None;なし
+1249;桃;Peach;とう;もも
+1250;寸;Measurement;すん;None
+1251;斗;Ladle;と;None
+1252;俺;I;None;おれ
+1253;丘;Hill;きゅう;おか
+1254;髪;Hair;はつ;かみ
+1255;粒;Grains;りゅう;つぶ
+1256;吉;Good Luck;きつ, きち;よし
+1257;釣;Fishing;ちょう;つ
+1258;忍;Endure;にん;しの
+1259;縁;Edge;えん, ねん;ふち
+1260;拶;Draw Close;さつ;None
+1261;竜;Dragon;りゅう;たつ
+1262;笠;Conical Hat;None;かさ
+1263;砲;Cannon;ほう;None
+1264;缶;Can;かん;None
+1265;刃;Blade;じん, にん;は
+1266;誰;Who;None;だれ
+1267;貢;Tribute;こう;みつ
+1268;潮;Tide;ちょう;しお
+1269;裂;Split;れつ;さ
+1270;撲;Slap;ぼく;None
+1271;沈;Sink;ちん;しず
+1272;斉;Simultaneous;せい, さい;None
+1273;封;Seal;ふう, ほう;None
+1274;珍;Rare;ちん;めずら
+1275;刷;Printing;さつ;す
+1276;旨;Point;し;うま, むね
+1277;岳;Peak;がく;たけ
+1278;泰;Peace;たい;None
+1279;牧;Pasture;ぼく;まき
+1280;滋;Nourishing;じ;None
+1281;威;Majesty;い;None
+1282;即;Instant;そく;すなわ
+1283;垣;Hedge;None;かき
+1284;琴;Harp;None;こと
+1285;擦;Grate;さつ;こす, す
+1286;趣;Gist;しゅ;おもむき
+1287;柔;Gentle;じゅう, にゅう;やわ
+1288;炉;Furnace;ろ;いろり
+1289;露;Expose;ろ, ろう;つゆ
+1290;籍;Enroll;せき;None
+1291;距;Distance;きょ;None
+1292;滅;Destroy;めつ;ほろ
+1293;筒;Cylinder;とう;つつ
+1294;懇;Courteous;こん;None
+1295;慰;Consolation;い;なぐさ
+1296;懲;Chastise;ちょう;こ
+1297;摩;Chafe;ま;さす
+1298;朗;Bright;ろう;ほが
+1299;沼;Bog;しょう;ぬま
+1300;襲;Attack;しゅう;おそ
+1301;荒;Wild;こう;あ, あら
+1302;糾;Twist;きゅう;None
+1303;暫;Temporarily;ざん;しばら
+1304;堅;Solid;けん;かた
+1305;滑;Slippery;かつ;すべ, なめ
+1306;揺;Shake;よう;ゆ
+1307;袋;Sack;たい;ふくろ
+1308;斎;Purification;さい;いつ
+1309;哲;Philosophy;てつ;None
+1310;柄;Pattern;へい;がら
+1311;双;Pair;そう;ふた
+1312;泊;Overnight;はく;と
+1313;克;Overcome;こく;None
+1314;網;Netting;もう;あみ
+1315;喪;Mourning;そう;も
+1316;肝;Liver;かん;きも
+1317;芝;Lawn;し;しば
+1318;潟;Lagoon;せき;かた
+1319;揚;Hoist;よう;あ
+1320;枢;Hinge;すう;からくり
+1321;握;Grip;あく;にぎ
+1322;床;Floor;しょう;ゆか, とこ
+1323;括;Fasten;かつ;くく
+1324;範;Example;はん;None
+1325;紛;Distract;ふん;まぎ, まぐ
+1326;掘;Dig;くつ;ほ
+1327;焦;Char;しょう;こ, あせ
+1328;挑;Challenge;ちょう;いど
+1329;綱;Cable;こう;つな
+1330;軸;Axis;じく;None
+1331;到;Arrival;とう;None
+1332;弧;Arc;こ;None
+1333;析;Analysis;せき;None
+1334;包;Wrap;ほう;つつ, くる
+1335;樹;Wood;じゅ;き
+1336;撤;Withdrawal;てつ;None
+1337;艦;Warship;かん;None
+1338;虎;Tiger;こ;とら
+1339;誠;Sincerity;せい;まこと
+1340;措;Set Aside;そ;None
+1341;酎;Sake;ちゅう, ちゅ;かも
+1342;墟;Ruins;きょ;None
+1343;瀬;Rapids;らい;せ
+1344;徹;Penetrate;てつ;None
+1345;伺;Pay Respects;し;うかが
+1346;鉱;Mineral;こう;あらがね
+1347;嘘;Lie;None;うそ
+1348;侵;Invade;しん;おか
+1349;遜;Humble;そん;したが
+1350;仁;Humanity;じん;None
+1351;蜜;Honey;みつ;None
+1352;郷;Hometown;きょう;None
+1353;拳;Fist;けん, げん;こぶし
+1354;蛍;Firefly;けい;ほたる
+1355;畑;Field;None;はたけ, はた
+1356;偽;Fake;ぎ;にせ, いつわ
+1357;潜;Conceal;せん;くぐ, ひそ, もぐ
+1358;衣;Clothes;い, え;ころも, きぬ
+1359;炭;Charcoal;たん;すみ
+1360;儀;Ceremony;ぎ;None
+1361;蜂;Bee;ほう;はち
+1362;拠;Based On;きょ;よ
+1363;至;Attain;し;いた
+1364;凄;Amazing;せい;すご
+1365;棄;Abandon;き;None
+1366;寡;Widow;か;None
+1367;湧;Well;ゆう, ゆ, よう;わ
+1368;渓;Valley;けい;たに, たにがわ
+1369;醜;Ugly;しゅう;しこ, みにく
+1370;拷;Torture;ごう;None
+1371;倹;Thrifty;けん;つづまやか, つま
+1372;畔;Shore;はん;あぜ, くろ, ほとり
+1373;唄;Shamisen Song;ばい;うた
+1374;泌;Secrete;ひ, ひつ;None
+1375;藻;Seaweed;そう;も
+1376;妄;Reckless;もう, ぼう;みだ
+1377;罷;Quit;ひ;や
+1378;坑;Pit;こう;None
+1379;殉;Martyr;じゅん;None
+1380;桟;Jetty;さん, せん;かけはし
+1381;藍;Indigo;らん;あい
+1382;謹;Humble;きん;つつし
+1383;匿;Hide;とく;かくま
+1384;婿;Groom;せい;むこ
+1385;升;Grid;しょう;ます
+1386;漸;Gradually;ぜん;ようや, やや
+1387;狐;Fox;こ;きつね
+1388;逝;Die;せい;い, ゆ
+1389;痢;Diarrhea;り;None
+1390;囚;Criminal;しゅう;とら
+1391;矯;Correct;きょう;た
+1392;某;Certain;ぼう;それがし, なにがし
+1393;劾;Censure;がい;None
+1394;廉;Bargain;れん;None
+1395;蛮;Barbarian;ばん;えびす
+1396;煩;Annoy;はん, ぼん;うるさ, わずら
+1397;崇;Worship;すう;あが
+1398;梓;Wood Block;し;あずさ
+1399;浪;Wander;ろう;None
+1400;甚;Very;じん;はなは
+1401;叔;Uncle;しゅく;None
+1402;遷;Transition;せん;うつ, みやこがえ
+1403;紡;Spinning;ぼう;つむ
+1404;汰;Select;た, たい;おご, にご, よな
+1405;蔑;Scorn;べつ;さげす
+1406;沙;Sand;さ, しゃ;すな, よなげる
+1407;峠;Ridge;None;とうげ
+1408;礁;Reef;しょう;None
+1409;吟;Recital;ぎん;None
+1410;曹;Official;そう, ぞう;つかさ, ともがら, へや
+1411;忌;Mourning;き;い
+1412;姻;Marry;いん;None
+1413;卑;Lowly;ひ;いや
+1414;憧;Long For;しょう, とう, どう;あこが
+1415;閑;Leisure;かん;None
+1416;漆;Lacquer;しつ;うるし
+1417;擬;Imitate;ぎ;まが, もど
+1418;胆;Guts;たん;きも
+1419;睦;Friendly;ぼく, もく;むつ
+1420;雌;Female;し;めす, め, めん
+1421;禍;Evil;か;わざわい
+1422;堪;Endure;かん, たん;た, こた, こ
+1423;侮;Despise;ぶ;あなず, あなど
+1424;篤;Deliberate;とく;あつ
+1425;酪;Dairy;らく;None
+1426;慶;Congratulate;けい;よろこ
+1427;詠;Compose;えい;よ, うた
+1428;拙;Clumsy;せつ;つたな
+1429;鋳;Cast;ちゅう;い
+1430;岬;Cape;こう;みさき
+1431;屯;Barracks;とん;None
+1432;亜;Asia;あ;つ
+1433;硫;Sulfur;りゅう;None
+1434;窃;Steal;せつ;ぬす, ひそ
+1435;絹;Silk;けん;きぬ
+1436;慨;Sigh;がい;None
+1437;酌;Serve;しゃく;く
+1438;菅;Sedge;かん, けん;すげ
+1439;帆;Sail;はん;ほ
+1440;奔;Run;ほん;はし
+1441;朽;Rot;きゅう;く
+1442;漣;Ripples;れん, らん;さざなみ
+1443;憤;Resent;ふん;いきどお
+1444;肖;Resemblance;しょう;あやか
+1445;嘱;Request;しょく;しょく, たの
+1446;享;Receive;きょう, こう;う
+1447;戯;Play;ぎ, げ;ざ, じゃ, たわむ
+1448;赦;Pardon;しゃ;None
+1449;椎;Oak;つい, すい;う, つち
+1450;濁;Muddy;だく, じょく;にご
+1451;媒;Mediator;ばい;なこうど
+1452;錠;Lock;じょう;None
+1453;殻;Husk;かく, こく, ばい;から, がら
+1454;傑;Greatness;けつ;すぐ
+1455;淑;Graceful;しゅく;しと
+1456;璃;Glassy;り;None
+1457;譜;Genealogy;ふ;None
+1458;藩;Fiefdom;はん;None
+1459;凌;Endure;りょう;しの
+1460;剖;Divide;ぼう;None
+1461;暁;Dawn;きょう, ぎょう;あかつき, さと
+1462;瑞;Congratulations;すい, ずい;みず, しるし
+1463;鶏;Chicken;けい;とり, にわとり
+1464;迭;Alternate;てつ;None
+1465;扶;Aid;ふ;たす
+1466;陪;Accompany;ばい;None
+1467;胎;Womb;たい;None
+1468;遍;Universal;へん;あまね
+1469;坪;Two Mat Area;へい;つぼ
+1470;槽;Tank;そう;ふね
+1471;萌;Sprout;ほう;きざ, めばえ, も
+1472;羅;Spread Out;ら;うすもの
+1473;喝;Scold;かつ;None
+1474;俸;Salary;ほう;None
+1475;旋;Rotation;せん;None
+1476;賊;Robber;ぞく;None
+1477;峡;Ravine;きょう, こう;はざま
+1478;哉;Question Mark;さい;や, かな
+1479;漬;Pickle;し;つ
+1480;蒼;Pale;そう;あお
+1481;紺;Navy;こん;None
+1482;膜;Membrane;まく;None
+1483;楓;Maple;ふう;かえで
+1484;乙;Latter;おつ, いつ;おと, きのと
+1485;瑠;Lapis Lazuli;る, りゅう;None
+1486;腸;Intestines;ちょう;はらわた
+1487;遮;Intercept;しゃ;さえぎ
+1488;閲;Inspection;えつ;けみ
+1489;酵;Fermentation;こう;None
+1490;伐;Fell;ばつ;う, き, そむ
+1491;衡;Equilibrium;こう;None
+1492;鼓;Drum;こ;つづみ
+1493;堕;Degenerate;だ;お, くず
+1494;敢;Daring;かん;あ
+1495;烏;Crow;うお;からす
+1496;凸;Convex;とつ;でこ
+1497;弔;Condolence;ちょう;とぶら, とむら
+1498;凹;Concave;おう;くぼ, へこ, ぼこ
+1499;醸;Brew;じょう;かも
+1500;盲;Blind;もう;めくら
+1501;款;Article;かん;None
+1502;智;Wisdom;ち;None
+1503;碑;Tombstone;ひ;いしぶみ
+1504;窒;Suffocate;ちつ;None
+1505;猶;Still;ゆう, ゆ;なお
+1506;搾;Squeeze;さく;しぼ
+1507;舶;Ship;はく;None
+1508;縫;Sew;ほう;ぬ
+1509;恭;Respect;きょう;うやうや
+1510;靖;Peaceful;じょう, せい;やす
+1511;尉;Military Officer;い, じょう;None
+1512;凡;Mediocre;ぼん, はん;おうよ, およ, すべ
+1513;陵;Mausoleum;りょう;みささぎ
+1514;宰;Manager;さい;None
+1515;寂;Lonely;じゃく, せき;さび, さみ
+1516;摂;In Addition;せつ, しょう;おさ, かね, と
+1517;穀;Grain;こく;None
+1518;呉;Give;ご;くれ, く
+1519;紳;Gentleman;しん;None
+1520;洪;Flood;こう;None
+1521;遥;Far Off;よう;はる
+1522;弊;Evil;へい;None
+1523;嘉;Esteem;か;よい, よみ
+1524;窮;Destitute;きゅう, きょう;きわ
+1525;悦;Delight;えつ;よろこ
+1526;轄;Control;かつ;くさび
+1527;錯;Confused;さく, しゃく;None
+1528;庸;Common;よう;None
+1529;凛;Cold;りん;きびし
+1530;弦;Chord;げん;つる
+1531;蝶;Butterfly;ちょう;None
+1532;柴;Brushwood;さい, し;しば
+1533;飽;Bored;ほう;あ
+1534;縛;Bind;ばく;しば
+1535;拍;Beat;はく, ひょう;None
+1536;匠;Artisan;しょう;たくみ
+1537;那;What;な, だ;いかん, なに, なんぞ
+1538;賓;VIP;ひん;None
+1539;尿;Urine;にょう;None
+1540;鎮;Tranquilize;ちん;おさえ, しず
+1541;之;This;し;これ, の
+1542;該;The Above;がい;None
+1543;脊;Stature;せき;せ, せい
+1544;朴;Simple;ぼく;えのき, ほう, ほお
+1545;憾;Remorse;かん;うら
+1546;昌;Prosperous;しょう;さかん
+1547;赴;Proceed;ふ;おもむ
+1548;愉;Pleasant;ゆ;たの
+1549;傍;Nearby;ぼう;かたわ, わき, おか, はた, そば
+1550;髄;Marrow;ずい;None
+1551;弥;Increasing;び, み;や
+1552;龍;Imperial;りゅう, りょう, ろう;たつ
+1553;栃;Horse Chestnut;None;とち
+1554;癒;Healing;ゆ;い, いや
+1555;悼;Grieve;とう;いた
+1556;憂;Grief;ゆう;う, うれ
+1557;惜;Frugal;せき;お
+1558;佳;Excellent;か;None
+1559;抹;Erase;まつ;None
+1560;郭;Enclosure;かく;くるわ
+1561;遼;Distant;りょう;None
+1562;奉;Dedicate;ほう, ぶ;たてまつ, まつ, ほう
+1563;旦;Dawn;たん, だん;あきら, あき, あさ, あした, ただし
+1564;瑛;Crystal;えい;None
+1565;栓;Cork;せん;None
+1566;凝;Congeal;ぎょう;こ, こご
+1567;粗;Coarse;そ;あら
+1568;循;Circulation;じゅん;None
+1569;虜;Captive;りょ, ろ;とりく, とりこ
+1570;伏;Bow;ふく;ふ
+1571;累;Accumulate;るい;None
+1572;卸;Wholesale;しゃ;おろし, おろ
+1573;鯨;Whale;げい;くじら
+1574;荘;Villa;そう, しょう, ちゃん;あごそ, ほうき
+1575;痴;Stupid;ち;おろか, し
+1576;茎;Stem;きょう, けい;くき
+1577;粛;Solemn;しゅく, すく;つつし
+1578;鎌;Sickle;けん, れん;かま
+1579;呆;Shock;ほう;あき, おろか, ほけ, ぼ
+1580;酬;Repay;しゅう, しゅ, とう;むく
+1581;茜;Red Dye;せん;あかね
+1582;疾;Rapidly;しつ;はや
+1583;傲;Proud;ごう;あなど, おご
+1584;呈;Present;てい;None
+1585;践;Practice;せん;ふ
+1586;栽;Planting;さい;None
+1587;哺;Nurse;ほ;ほぐく, ふく
+1588;謡;Noh Chanting;よう;うた
+1589;疎;Neglect;そ, しょ;うと, まば
+1590;勲;Merit;くん;いさお
+1591;悠;Leisure;ゆう;None
+1592;拐;Kidnap;かい;None
+1593;尚;Furthermore;しょう;なお
+1594;愚;Foolish;ぐ;おろ
+1595;阿;Flatter;あ, お;おもね, くま
+1596;紋;Family Crest;もん;None
+1597;逸;Deviate;いつ;そ, はぐ
+1598;叙;Describe;じょ;つい, ついで
+1599;酷;Cruel;こく;ひど
+1600;冠;Crown;かん;かんむり
+1601;欄;Column;らん;てすり
+1602;栞;Bookmark;かん;しおり
+1603;杏;Apricot;あん, きょう, こう;あんず
+1604;顕;Appear;けん;あきらか, あらわ
+1605;且;Also;しょ, しょう, そ;か
+1606;庶;All;しょ;None
+1607;寛;Tolerance;かん;くつろ
+1608;剰;Surplus;じょう;あまつさえ, あま
+1609;駿;Speed;しゅん, すん;すぐ
+1610;壌;Soil;じょう;つち
+1611;舗;Shop;ほ;None
+1612;准;Semi;じゅん;None
+1613;緋;Scarlet;ひ;あか, あけ
+1614;丹;Rust Colored;たん;に
+1615;艇;Rowboat;てい;None
+1616;戴;Receive;たい;いただ
+1617;虐;Oppress;ぎゃく;しいた
+1618;瓜;Melon;か, け;うり
+1619;緯;Latitude;い;ぬき, よこいと
+1620;莉;Jasmine;り, れい, らい;None
+1621;据;Install;きょ;す
+1622;騰;Inflation;とう;あが, のぼ
+1623;葵;Hollyhock;き;あおい
+1624;徐;Gently;じょ;おもむ
+1625;繊;Fiber;せん;None
+1626;披;Expose;ひ;None
+1627;啓;Enlighten;けい;さと, ひら
+1628;稿;Draft;こう;したがき, わら
+1629;惨;Disaster;さん, ざん;みじ, いた, むご
+1630;曙;Dawn;しょ;あけぼの
+1631;蒙;Darkness;もう, ぼう;おお, くら, こうむ
+1632;諒;Comprehend;りょう;あきら, まことに
+1633;帥;Commander;すい;None
+1634;浄;Cleanse;じょう, せい;きよ
+1635;胞;Cell;ほう;None
+1636;鯉;Carp;り;こい
+1637;錦;Brocade;きん;にしき
+1638;搭;Board;とう;None
+1639;胡;Barbarian;こ, う, ご;なんぞ
+1640;随;All;ずい;したが, まにま
+1641;諭;Admonish;ゆ;さと
+1642;遇;Treatment;ぐう;あ
+1643;膨;Swell;ぼう;ふく
+1644;慢;Ridicule;まん;None
+1645;颯;Quick;さつ, そう;さっ
+1646;糧;Provisions;りょう, ろう;かて
+1647;貫;Pierce;かん;つらぬ, ぬき, ぬ
+1648;芳;Perfume;ほう;かんば
+1649;孤;Orphan;こ;None
+1650;秩;Order;ちつ;None
+1651;牲;Offering;せい;None
+1652;須;Necessary;す, しゅ;すべから, すべし, ひげ, まつ, もち, もと
+1653;覇;Leadership;は, はく;はたがしら
+1654;怠;Lazy;たい;おこた, なま
+1655;惰;Lazy;だ;None
+1656;唆;Instigate;さ;そそのか, そそ
+1657;猟;Hunting;りょう, れふ;かり, か
+1658;輔;Help;ふ, ほ;たす
+1659;乃;From;ない;すなわ, なんじ, の
+1660;隼;Falcon;しゅん, じゅん;はやぶさ
+1661;陳;Exhibit;ちん;ひ
+1662;倫;Ethics;りん;None
+1663;殊;Especially;しゅ;こと
+1664;噴;Erupt;ふん;ふ
+1665;遭;Encounter;そう;あ
+1666;擁;Embrace;よう;None
+1667;没;Die;ぼつ, もつ;おぼ, しず, ない
+1668;綾;Design;りん;あや
+1669;恒;Constant;こう;つね, つねに
+1670;賠;Compensation;ばい;None
+1671;鎖;Chain;さ;くさり, とざ
+1672;陥;Cave In;かん;おちい, おとしい
+1673;茨;Briar;し, じ;いばら
+1674;偏;Biased;へん;かたよ
+1675;呂;Bath;ろ, りょ;せぼね
+1676;祥;Auspicious;しょう;きざ, さいわ, つまび, よ
+1677;枯;Wither;こ;か
+1678;聡;Wise;そう;さと, みみざと
+1679;渦;Whirlpool;か;うず
+1680;濯;Wash;たく;すす, ゆす, そそぐ
+1681;頂;Summit;ちょう;いただき, いただ
+1682;郊;Suburbs;こう;None
+1683;軟;Soft;なん;やわ
+1684;膚;Skin;ふ;はだ
+1685;隻;Ship Counter;せき;None
+1686;苗;Seedling;みょう, びょう;なえ, なわ
+1687;喚;Scream;かん;わめ
+1688;邸;Residence;てい;やしき
+1689;媛;Princess;えん;ひめ
+1690;耕;Plow;こう;たがや
+1691;肪;Obese;ぼう;None
+1692;玄;Mysterious;げん;くろ
+1693;塚;Mound;ちょう;つか
+1694;慈;Mercy;じ;いつく
+1695;蓮;Lotus;れん;はす, はちす
+1696;軒;House Counter;けん;のき
+1697;偉;Greatness;い;えら
+1698;脂;Fat;し;あぶら
+1699;釈;Explanation;しゃく, せき;す, とく, ゆる
+1700;燥;Dry Up;そう;はしゃ
+1701;郡;County;ぐん;こおり
+1702;隅;Corner;ぐう;すみ
+1703;襟;Collar;きん;えり
+1704;亮;Clear;りょう;あきらか
+1705;貞;Chastity;てい;さだ
+1706;召;Call;しょう;め
+1707;瓶;Bottle;びん;かめ
+1708;沸;Boil;ふつ;わ
+1709;挟;Between;きょう, しょう;はさ
+1710;浦;Bay;ほ;うら
+1711;肯;Agreement;こう;がえんじ
+1712;歌;Song;か;うた
+1713;横;Side;おう;よこ
+1714;病;Sick;びょう;や, やまい
+1715;路;Road;ろ;じ, みち
+1716;転;Revolve;てん;ころ
+1717;求;Request;きゅう;もと
+1718;読;Read;とう, どく;よ
+1719;親;Parent;しん;おや, した
+1720;開;Open;かい;あ, ひら
+1721;最;Most;さい;もっと
+1722;線;Line;せん;None
+1723;軽;Lightweight;けい;かる, かろ
+1724;習;Learn;しゅう;なら
+1725;葉;Leaf;よう;は, ば
+1726;語;Language;ご;かた
+1727;鉄;Iron;てつ;None
+1728;調;Investigate;ちょう;しら
+1729;院;Institution;いん;None
+1730;聞;Hear;ぶん, もん;き
+1731;頭;Head;ず, とう;あたま
+1732;速;Fast;そく;はや
+1733;農;Farming;のう;None
+1734;落;Fall;らく;お
+1735;顔;Face;がん;かお
+1736;終;End;しゅう;おわ, お
+1737;飲;Drink;いん;の
+1738;配;Distribute;はい;くば
+1739;集;Collect;しゅう;あつ
+1740;鳴;Chirp;めい;な
+1741;漢;Chinese;かん;None
+1742;運;Carry;うん;はこ
+1743;算;Calculate;さん;そろ
+1744;業;Business;ぎょう;None
+1745;始;Begin;し;はじ
+1746;酒;Alcohol;しゅ;さけ, さか
+1747;進;Advance;しん;すす
+1748;界;World;かい;None
+1749;勝;Win;しょう;か
+1750;使;Use;し;つか
+1751;試;Try;し;こころ, ため
+1752;実;Truth;じつ;み
+1753;具;Tool;ぐ;None
+1754;物;Thing;ぶつ, もつ;もの
+1755;験;Test;けん;ため, ためし
+1756;仮;Temporary;か;かり
+1757;泳;Swim;えい;およ
+1758;苦;Suffering;く;くる, にが
+1759;送;Send;そう;おく
+1760;売;Sell;ばい;う
+1761;屋;Roof;おく;や
+1762;乗;Ride;じょう;の
+1763;返;Return;へん;かえ
+1764;保;Preserve;ほ;たも
+1765;県;Prefecture;けん;None
+1766;和;Peace;わ, お;なご, やわ
+1767;部;Part;ぶ;へ
+1768;新;New;しん;あたら, あら, にい
+1769;要;Need;よう;い, かなめ
+1770;相;Mutual;そう, しょう;あい
+1771;負;Lose;ふ;ま, お
+1772;持;Hold;じ;も
+1773;重;Heavy;じゅう, ちょう;おも, かさ, え
+1774;客;Guest;きゃく;None
+1775;表;Express;ひょう;あらわ, おもて
+1776;談;Discuss;だん;None
+1777;定;Determine;てい, じょう;さだ
+1778;発;Departure;はつ;None
+1779;度;Degrees;ど, たく;たび
+1780;服;Clothes;ふく;None
+1781;予;Beforehand;よ;あらかじ
+1782;美;Beauty;び, み;うつく
+1783;事;Action;じ;こと, つか
+1784;受;Accept;じゅ;う
+1785;対;Versus;たい;None
+1786;投;Throw;とう;な
+1787;話;Talk;わ;はな, はなし
+1788;支;Support;し;ささ
+1789;者;Someone;しゃ;もの
+1790;身;Somebody;しん;み
+1791;研;Sharpen;けん;と
+1792;役;Service;やく;None
+1793;道;Road;どう;みち
+1794;究;Research;きゅう;きわ
+1795;池;Pond;ち;いけ
+1796;所;Place;しょ;ところ
+1797;番;Number In A Series;ばん;None
+1798;朝;Morning;ちょう;あさ
+1799;医;Medicine;い;None
+1800;場;Location;じょう;ば
+1801;間;Interval;かん, けん;あいだ, ま
+1802;馬;Horse;ば;うま
+1803;助;Help;じょ;たす, すけ
+1804;森;Forest;しん;もり
+1805;電;Electricity;でん;None
+1806;住;Dwelling;じゅう;す
+1807;絵;Drawing;え;None
+1808;決;Decide;けつ;き
+1809;数;Count;すう;かぞ, かず
+1810;楽;Comfort;らく, がく;たの
+1811;雲;Cloud;うん;くも
+1812;買;Buy;ばい;か
+1813;局;Bureau;きょく;None
+1814;君;Buddy;くん;きみ
+1815;反;Anti;はん;None
+1816;答;Answer;とう;こた
+1817;黄;Yellow;おう;き
+1818;記;Write Down;き;しる
+1819;風;Wind;ふう, ふ;かぜ
+1820;週;Week;しゅう;None
+1821;弱;Weak;じゃく;よわ
+1822;時;Time;じ;とき
+1823;教;Teach;きょう;おし, おそ
+1824;高;Tall;こう;たか
+1825;夏;Summer;げ, か, が;なつ
+1826;強;Strong;きょう;つよ
+1827;雪;Snow;せつ;ゆき
+1828;校;School;こう;None
+1829;由;Reason;ゆう;よし, よ
+1830;理;Reason;り;ことわり
+1831;民;Peoples;みん;たみ
+1832;通;Pass Through;つう;とお, かよ
+1833;紙;Paper;し;かみ
+1834;未;Not Yet;み;ま, いま, ひつじ
+1835;欠;Lack;けつ;か
+1836;家;House;か, け;いえ, や, うち
+1837;組;Group;そ;くみ
+1838;以;From;い;None
+1839;魚;Fish;ぎょ;さかな
+1840;失;Fault;しつ;うしな
+1841;氏;Family Name;し;うじ
+1842;末;End;まつ;すえ
+1843;必;Certain;ひつ;かなら
+1844;船;Boat;せん;ふね
+1845;黒;Black;こく;くろ
+1846;鳥;Bird;ちょう;とり
+1847;札;Bill;さつ;ふだ
+1848;付;Attach;ふ;つ
+1849;辺;Area;へん;あた, べ
+1850;妹;Younger Sister;まい;いもうと
+1851;向;Yonder;こう;む
+1852;歩;Walk;ほ;ある, あゆ
+1853;思;Think;し;おも
+1854;茶;Tea;ちゃ, さ;None
+1855;州;State;しゅう;None
+1856;星;Star;せい;ほし
+1857;南;South;なん;みなみ
+1858;店;Shop;てん;みせ
+1859;羊;Sheep;よう;ひつじ
+1860;海;Sea;かい;うみ
+1861;室;Room;しつ;None
+1862;安;Relax;あん;やす
+1863;点;Point;てん;つ
+1864;姉;Older Sister;し;お, あね, ねえ
+1865;夜;Night;や;よ, よる
+1866;次;Next;じ;つぎ
+1867;首;Neck;しゅ;くび
+1868;曲;Music;きょく;ま
+1869;長;Long;ちょう;なが
+1870;活;Lively;かつ;い
+1871;知;Know;ち;し
+1872;私;I;し;わたし
+1873;有;Have;ゆう, う;あ
+1874;前;Front;ぜん;まえ
+1875;直;Fix;ちょく, じき;なお
+1876;食;Eat;しょく;た, く
+1877;東;East;とう;ひがし
+1878;地;Earth;ち, じ;None
+1879;画;Drawing;が, かく;None
+1880;死;Death;し;し
+1881;亡;Death;ぼう;な
+1882;科;Course;か;None
+1883;国;Country;こく;くに
+1884;化;Change;か;ば
+1885;京;Capital;きょう;みやこ
+1886;明;Bright;めい;あ, あか, あき
+1887;両;Both;りょう;None
+1888;血;Blood;けつ;ち
+1889;後;Behind;ご, こう;うし, あと, のち
+1890;全;All;ぜん;すべ, まった
+1891;弟;Younger Brother;だい, で, てい;おとうと
+1892;麦;Wheat;ばく;むぎ
+1893;何;What;か;なに, なん
+1894;西;West;せい, さい;にし
+1895;声;Voice;せい;こえ
+1896;谷;Valley;こく;たに
+1897;回;Times;かい;まわ
+1898;考;Think;こう;かんが
+1899;光;Sunlight;こう;ひかり, ひか
+1900;学;Study;がく;まな
+1901;音;Sound;おん;おと, ね
+1902;空;Sky;くう;そら, あ, から, す
+1903;皮;Skin;ひ;かわ
+1904;形;Shape;けい, ぎょう;かた, かたち
+1905;自;Self;じ, し;None
+1906;言;Say;げん, ごん;い, こと
+1907;同;Same;どう;おな
+1908;走;Run;そう;はし
+1909;米;Rice;べい, まい;こめ
+1910;雨;Rain;う;あめ, あま
+1911;兄;Older Brother;きょう;あに
+1912;近;Near;きん, こん;ちか
+1913;交;Mix;こう;まじ, ま, か
+1914;会;Meet;かい;あ
+1915;肉;Meat;にく;None
+1916;多;Many;た;おお
+1917;作;Make;さく, さ;つく
+1918;里;Home Village;り;さと
+1919;草;Grass;そう;くさ
+1920;金;Gold;きん;かね
+1921;行;Go;こう, ぎょう;い, おこな, ゆ
+1922;林;Forest;りん;はやし
+1923;羽;Feather;う;はね, は, わ
+1924;毎;Every;まい;ごと
+1925;図;Diagram;ず, と;え, はか
+1926;当;Correct;とう;あ
+1927;社;Company;しゃ;やしろ
+1928;来;Come;らい;く
+1929;色;Color;しき, しょく;いろ
+1930;体;Body;たい;からだ
+1931;青;Blue;せい, しょう;あお
+1932;斤;Axe;きん;None
+1933;角;Angle;かく;かど, つの
+1934;年;Year;ねん;とし
+1935;世;World;せ, せい;よ
+1936;村;Village;そん;むら
+1937;宝;Treasure;ほう;たから
+1938;町;Town;ちょう;まち
+1939;糸;Thread;し;いと
+1940;礼;Thanks;れい;None
+1941;代;Substitute;だい;か, かわ, しろ
+1942;石;Stone;せき;いし
+1943;貝;Shellfish;None;かい
+1944;見;See;けん;み
+1945;申;Say Humbly;しん;もう
+1946;休;Rest;きゅう;やす
+1947;赤;Red;せき;あか
+1948;先;Previous;せん;さき, まず
+1949;皿;Plate;None;さら
+1950;去;Past;きょ, こ;さ
+1951;他;Other;た;ほか
+1952;号;Number;ごう;None
+1953;不;Not;ふ;None
+1954;名;Name;めい, みょう;な
+1955;主;Master;しゅ;おも, ぬし
+1956;男;Man;だん, なん;おとこ
+1957;字;Letter;じ;None
+1958;虫;Insect;ちゅう, き;むし
+1959;氷;Ice;ひょう;こおり
+1960;百;Hundred;ひゃく;もも
+1961;打;Hit;だ;う, ぶ
+1962;足;Foot;そく;あし, た
+1963;花;Flower;か, け;はな
+1964;平;Flat;へい, ひょう, びょう;たいら, ひら
+1965;気;Energy;き, け;いき
+1966;早;Early;そう;はや, さ
+1967;耳;Ear;じ;みみ
+1968;仕;Doing;し;つか
+1969;写;Copy;しゃ;うつ
+1970;央;Center;おう;None
+1971;車;Car;しゃ;くるま
+1972;竹;Bamboo;None;たけ
+1973;冬;Winter;とう;ふゆ
+1974;広;Wide;こう;ひろ
+1975;万;Ten Thousand;まん, ばん;None
+1976;用;Task;よう;もち
+1977;止;Stop;し;と, や
+1978;引;Pull;いん;ひ
+1979;公;Public;こう;None
+1980;分;Part;ぶん, ふん, ぶ;わ
+1981;外;Outside;がい;そと, はず
+1982;元;Origin;げん, がん;もと
+1983;古;Old;こ;ふる
+1984;今;Now;こん;いま
+1985;北;North;ほく;きた
+1986;午;Noon;ご;None
+1987;母;Mother;ぼ;はは
+1988;台;Machine;だい, たい;None
+1989;生;Life;せい, しょう;い, なま, う, は, き
+1990;内;Inside;ない;うち
+1991;心;Heart;しん;こころ
+1992;半;Half;はん;なか
+1993;毛;Fur;もう;け
+1994;友;Friend;ゆう;とも
+1995;少;Few;しょう;すこ
+1996;父;Father;ふ;ちち
+1997;太;Fat;たい, た;ふと
+1998;戸;Door;こ;と
+1999;方;Direction;ほう;かた
+2000;切;Cut;せつ;き
+2001;牛;Cow;ぎゅう;うし
+2002;市;City;し;いち
+2003;矢;Arrow;し;や
+2004;円;Yen;えん;まる
+2005;六;Six;ろく;む
+2006;右;Right;ゆう, う;みぎ
+2007;田;Rice Paddy;でん;た
+2008;々;Repeater;None;のま
+2009;月;Moon;げつ, がつ;つき
+2010;中;Middle;ちゅう;なか
+2011;左;Left;さ;ひだり
+2012;王;King;おう;None
+2013;天;Heaven;てん;あま
+2014;手;Hand;しゅ, ず;て
+2015;才;Genius;さい;None
+2016;四;Four;し;よん, よ
+2017;五;Five;ご;いつ
+2018;火;Fire;か;ひ, ほ
+2019;了;Finish;りょう;None
+2020;目;Eye;もく;め
+2021;出;Exit;しゅつ;で, だ
+2022;夕;Evening;せき;ゆう
+2023;犬;Dog;けん;いぬ
+2024;土;Dirt;ど, と;つち
+2025;正;Correct;せい, しょう;ただ, まさ
+2026;丸;Circle;がん;まる
+2027;子;Child;し, す;こ
+2028;本;Book;ほん;もと
+2029;玉;Ball;ぎょく;たま
+2030;又;Again;None;また
+2031;女;Woman;じょ;おんな, め
+2032;二;Two;に;ふた
+2033;三;Three;さん;み
+2034;十;Ten;じゅう;とお
+2035;七;Seven;しち;なな, なの
+2036;川;River;せん;かわ
+2037;力;Power;りょく, りき;ちから
+2038;人;Person;にん, じん;ひと, と
+2039;一;One;いち, いつ;ひと
+2040;九;Nine;く, きゅう;ここの
+2041;口;Mouth;こう, く;くち
+2042;山;Mountain;さん;やま
+2043;入;Enter;にゅう;はい, い
+2044;八;Eight;はち;や, よう
+2045;工;Construction;こう, く;None
+2046;大;Big;たい, だい;おお
+2047;下;Below;か, げ;した, さ, くだ, お
