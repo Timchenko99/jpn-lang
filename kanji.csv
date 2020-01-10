@@ -1,0 +1,2049 @@
+,character,kun,meaning,on
+0,上,うえ  あ  のぼ  うわ  かみ,Above,じょう
+1,文,None,Writing,ぶん  もん
+2,白,しろ  しら,White,はく
+3,水,みず,Water,すい
+4,木,き  こ,Tree,もく  ぼく
+5,千,ち,Thousand,せん
+6,刀,かたな,Sword,とう
+7,日,ひ  か  び,Sun,にち  じつ
+8,丁,None,Street,ちょう  てい
+9,立,た,Stand,りつ  りゅう
+10,小,ちい  こ  お,Small,しょう
+11,起,お,Wake Up,き
+12,慕,した,Yearn For,ぼ
+13,邪,よこし,Wicked,じゃ
+14,透,す,Transparent,とう
+15,濡,ぬ,Wet,None
+16,妻,つま,Wife,さい
+17,厚,あつ,Thick,こう
+18,論,None,Theory,ろん
+19,尾,お  ぽ,Tail,び
+20,余,あま,Surplus,よ
+21,臭,くさ,Stinking,しゅう
+22,防,ふせ,Prevent,ぼう
+23,圧,None,Pressure,あつ
+24,率,ひき,Percent,りつ  そつ
+25,経,た  へ,Passage of Time,けい
+26,倒,たお,Overthrow,とう
+27,妨,さまた,Obstruct,ぼう
+28,機,はた,Machine,き
+29,個,None,Individual,こ
+30,被,かぶ,Incur,ひ
+31,穴,あな,Hole,けつ
+32,罪,つみ,Guilt,ざい
+33,産,う,Give Birth,さん
+34,飛,と,Fly,ひ
+35,在,None,Exist,ざい
+36,震,ふる,Earthquake,しん
+37,夢,ゆめ,Dream,む
+38,困,こま,Distressed,こん
+39,嫌,いや  きら,Dislike,けん  げん
+40,災,わざわ,Disaster,さい
+41,難,むずか,Difficult,なん
+42,議,None,Deliberation,ぎ
+43,害,None,Damage,がい
+44,犯,おか,Crime,はん
+45,械,かせ,Contraption,かい
+46,確,たし,Certain,かく
+47,尻,しり,Butt,None
+48,裕,None,Abundant,ゆう
+49,若,わか  も,Young,じゃく
+50,財,None,Wealth,さい  ざい
+51,暴,あば  ばく,Violence,ぼう
+52,舌,した,Tongue,ぜつ
+53,連,つ  つら,Take Along,れん
+54,節,ふし,Season,せつ
+55,乱,みだ,Riot,らん
+56,改,あらた,Renew,かい
+57,詞,None,Part Of Speech,し
+58,宇,None,Outer Space,う
+59,順,None,Order,じゅん
+60,善,None,Morally Good,ぜん
+61,混,ま,Mix,こん
+62,宙,None,Midair,ちゅう
+63,徒,None,Junior,と
+64,史,None,History,し
+65,団,None,Group,だん  とん
+66,容,None,Form,よう
+67,笛,ふえ,Flute,てき
+68,絡,から,Entangle,らく
+69,易,やさ,Easy,い  えき
+70,昆,None,Descendants,こん
+71,減,へ,Decrease,げん
+72,続,つづ,Continue,ぞく
+73,歴,へ,Continuation,れき
+74,比,くら,Compare,ひ
+75,布,ぬの,Cloth,ふ
+76,閥,None,Clique,ばつ
+77,忙,いそが,Busy,ぼう
+78,履,は,Boots,り
+79,冊,None,Book Counter,さつ
+80,加,くわ,Add,か
+81,得,え  う,Acquire,とく
+82,禅,None,Zen,ぜん
+83,洗,あら,Wash,せん
+84,類,たぐ,Type,るい
+85,喉,のど,Throat,こう
+86,叩,たた,Strike,こう
+87,汽,None,Steam,き
+88,煙,けむ  けむり,Smoke,えん
+89,座,すわ,Sit,ざ
+90,静,しず,Quiet,せい
+91,禁,None,Prohibit,きん
+92,僧,None,Priest,そう
+93,祈,いの,Pray,き
+94,可,None,Possible,か
+95,許,ゆる,Permit,きょ
+96,句,None,Paragraph,く
+97,報,むく,News,ほう
+98,種,たね  ぐさ,Kind,しゅ
+99,訓,よ,Instruction,くん
+100,忘,わす,Forget,ぼう
+101,枚,None,Flat Objects Counter,まい
+102,等,ひと  など,Equal,とう
+103,喫,の,Consume,きつ
+104,胸,むね,Chest,きょう
+105,飴,あめ,Candy,None
+106,脳,None,Brain,のう
+107,弓,ゆみ,Bow,きゅう
+108,借,か,Borrow,しゃく
+109,焼,や,Bake,しょう
+110,達,たち,Attain,たつ
+111,告,つ,Announce,こく
+112,警,None,Warn,けい
+113,虚,むな,Void,きょ  こ
+114,梅,うめ,Ume,ばい
+115,細,ほそ  こま,Thin,さい
+116,説,と,Theory,せつ
+117,兵,None,Soldier,へい  ひょう
+118,側,がわ  そば,Side,そく
+119,席,None,Seat,せき
+120,塩,しお,Salt,えん
+121,悲,かな,Sad,ひ
+122,恋,こい,Romance,れん
+123,喜,よろこ,Rejoice,き
+124,栄,さか,Prosper,えい
+125,原,はら,Original,げん
+126,常,つね,Ordinary,じょう
+127,無,な,Nothing,む  ぶ
+128,鼻,はな,Nose,び
+129,覚,おぼ  さ,Memorize,かく
+130,薬,くすり,Medicine,やく
+131,愛,まな,Love,あい
+132,非,None,Injustice,ひ
+133,幻,まぼろし,Illusion,げん
+134,堂,None,Hall,どう
+135,察,None,Guess,さつ
+136,署,None,Government Office,しょ
+137,官,None,Government,かん
+138,果,くだ  は,Fruit,か
+139,渉,わた,Ford,しょう
+140,敗,やぶ,Failure,はい
+141,干,ほ  ひ,Dry,かん
+142,劇,None,Drama,げき
+143,識,None,Discerning,しき
+144,詳,くわ,Detailed,しょう
+145,因,よ,Cause,いん
+146,底,そこ,Bottom,てい
+147,結,むす  ゆ,Bind,けつ
+148,是,None,Absolutely,ぜ
+149,書,か,Write,しょ
+150,曜,None,Weekday,よう
+151,取,と,Take,しゅ
+152,冗,None,Superfluous,じょう
+153,専,もっぱ,Specialty,せん
+154,典,None,Rule,てん
+155,険,けわ,Risky,けん
+156,関,かか  せき,Related,かん
+157,真,ま,Reality,しん
+158,辞,や,Quit,じ
+159,守,まも  もり,Protect,す  しゅ
+160,品,しな,Product,ひん
+161,政,None,Politics,せい
+162,荷,に,Luggage,か
+163,笑,わら  え,Laugh,しょう
+164,急,いそ,Hurry,きゅう
+165,阪,さか,Heights,はん
+166,幸,しあわ  さいわ  さち,Happiness,こう
+167,府,None,Government,ふ
+168,門,None,Gates,もん
+169,園,None,Garden,えん
+170,遠,とお,Far,えん
+171,面,おも  おもて,Face,めん
+172,存,None,Exist,そん  ぞん
+173,証,あかし,Evidence,しょう
+174,弁,None,Dialect,べん
+175,留,と,Detain,る  りゅう
+176,冒,おか,Dare,ぼう
+177,危,あぶ  あや,Dangerous,き
+178,治,なお,Cure,じ  ち
+179,係,かか  かかり,Connection,けい
+180,箱,はこ,Box,None
+181,浴,あ,Bathe,よく
+182,寺,てら,Temple,じ
+183,春,はる,Spring,しゅん
+184,坂,さか,Slope,はん
+185,単,None,Simple,たん
+186,浅,あさ,Shallow,せん
+187,列,None,Row,れつ
+188,式,None,Ritual,しき
+189,帰,かえ,Return,き
+190,昨,None,Previous,さく
+191,毒,None,Poison,どく
+192,昼,ひる,Noon,ちゅう
+193,晩,None,Night,ばん
+194,法,None,Method,ほう
+195,計,はか,Measure,けい
+196,飯,めし,Meal,はん
+197,夫,おっと,Husband,ふう  ふ
+198,丈,たけ,Height,じょう
+199,英,None,England,えい
+200,区,None,District,く
+201,司,つかさど,Director,し
+202,泣,な,Cry,きゅう
+203,勇,いさ,Courage,ゆう
+204,築,きず,Construct,ちく
+205,晴,は,Clear Up,せい
+206,変,か,Change,へん
+207,猫,ねこ,Cat,None
+208,建,た,Build,けん
+209,仏,ほとけ,Buddha,ぶつ
+210,岩,いわ,Boulder,がん
+211,信,None,Believe,しん
+212,秋,あき,Autumn,None
+213,軍,None,Army,ぐん
+214,紀,None,Account,き
+215,希,まれ,Wish,き
+216,念,None,Thought,ねん
+217,的,まと,Target,てき
+218,囲,かこ,Surround,い
+219,頑,None,Stubborn,がん
+220,格,None,Status,かく
+221,技,わざ,Skill,ぎ
+222,季,None,Seasons,き
+223,残,のこ,Remainder,ざん
+224,約,None,Promise,やく
+225,松,まつ,Pine,しょう
+226,完,None,Perfect,かん
+227,参,まい,Participate,さん  しん
+228,材,None,Lumber,ざい
+229,望,のぞ,Hope,ぼう
+230,固,かた,Hard,こ
+231,卒,None,Graduate,そつ
+232,妥,None,Gentle,だ
+233,性,None,Gender,せい  しょう
+234,基,もと,Foundation,き
+235,折,お,Fold,せつ
+236,例,たと,Example,れい
+237,協,None,Cooperation,きょう
+238,周,まわ,Circumference,しゅう
+239,束,たば,Bundle,そく
+240,骨,ほね,Bone,こつ
+241,雰,None,Atmosphere,ふん
+242,術,None,Art,じゅつ
+243,芸,None,Acting,げい
+244,能,None,Ability,のう
+245,輪,わ,Wheel,りん
+246,題,None,Topic,だい
+247,像,None,Statue,ぞう
+248,駅,None,Station,えき
+249,銀,None,Silver,ぎん
+250,標,しるし,Signpost,ひょう
+251,課,None,Section,か
+252,士,さむらい,Samurai,し
+253,願,ねが  ねがい,Request,がん
+254,映,うつ  は,Reflect,えい
+255,館,None,Public Building,かん
+256,問,と  とん,Problem,もん
+257,賞,None,Prize,しょう
+258,練,ね,Practice,れん
+259,詩,うた,Poem,し
+260,然,しか  さ,Nature,ぜん  ねん
+261,鏡,かがみ,Mirror,きょう
+262,福,None,Luck,ふく
+263,宿,やど,Lodge,しゅく
+264,殺,ころ,Kill,さつ
+265,億,None,Hundred Million,おく
+266,熱,あつ,Heat,ねつ
+267,緑,みどり,Green,りょく
+268,養,やしな,Foster,よう
+269,様,さま,Formal Name Title,よう
+270,情,なさけ,Feeling,じょう
+271,感,None,Feeling,かん
+272,料,None,Fee,りょう
+273,疑,うたが,Doubt,ぎ
+274,暗,くら  くれ,Dark,あん
+275,器,うつわ,Container,き
+276,想,None,Concept,そう
+277,選,えら,Choose,せん
+278,橋,はし,Bridge,きょう
+279,整,ととの,Arrange,せい
+280,謝,あやま,Apologize,しゃ
+281,皆,みな  みんな,All,かい
+282,着,き  つ,Wear,ちゃく
+283,温,あたた,Warm,おん
+284,待,ま,Wait,たい
+285,旅,たび,Trip,りょ
+286,族,None,Tribe,ぞく
+287,歯,は,Tooth,し
+288,陽,ひ,Sunshine,よう
+289,合,あ  あい,Suit,ごう  がっ
+290,流,なが,Stream,りゅう  る
+291,泉,いずみ,Spring,せん
+292,球,たま,Sphere,きゅう
+293,短,みじか,Short,たん
+294,根,ね,Root,こん
+295,植,う,Plant,しょく
+296,期,None,Period Of Time,き
+297,第,None,Ordinal Number Prefix,だい
+298,動,うご,Move,どう
+299,都,みやこ,Metropolis,と  つ
+300,商,あきな,Merchandise,しょう
+301,員,None,Member,いん
+302,童,None,Juvenile,どう
+303,島,しま,Island,とう
+304,僕,None,I,ぼく
+305,湯,ゆ,Hot Water,とう
+306,暑,あつ,Hot,しょ
+307,港,みなと,Harbor,こう
+308,庭,にわ,Garden,てい
+309,階,None,Floor,かい
+310,野,の,Field,や
+311,祭,まつり  まつ,Festival,さい
+312,消,き  け,Extinguish,しょう
+313,勉,None,Exertion,べん
+314,倍,None,Double,ばい
+315,深,ふか,Deep,しん
+316,寒,さむ,Cold,かん
+317,登,のぼ,Climb,とう  と
+318,章,None,Chapter,しょう
+319,息,いき,Breath,そく
+320,悪,わる,Bad,あく  お
+321,働,はたら,Work,どう
+322,洋,None,Western Style,よう
+323,波,なみ,Wave,は
+324,戦,たたか,War,せん
+325,伝,つた  つて,Transmit,でん
+326,努,つと,Toil,ど
+327,共,とも,Together,きょう
+328,特,None,Special,とく
+329,別,わか,Separate,べつ
+330,秒,None,Second,びょう
+331,放,はな  ほう,Release,ほう
+332,仲,なか,Relationship,ちゅう
+333,位,くらい,Rank,い
+334,利,き,Profit,り
+335,注,そそ  さ  つ,Pour,ちゅう
+336,拾,ひろ,Pick Up,None
+337,令,None,Orders,れい
+338,育,そだ  はぐく,Nurture,いく
+339,低,ひく,Low,てい
+340,昔,むかし,Long Ago,None
+341,好,す  この,Like,こう
+342,級,None,Level,きゅう
+343,労,いたわ,Labor,ろう
+344,意,None,Idea,い
+345,良,よ  い,Good,りょう
+346,神,かみ,God,しん
+347,追,お,Follow,つい
+348,味,あじ,Flavor,み
+349,初,はじ  はつ  そ  ぞ,First,しょ
+350,指,ゆび  さ,Finger,し
+351,命,いのち,Fate,めい  みょう
+352,老,None,Elderly,ろう
+353,便,たよ,Convenience,べん  びん
+354,争,あらそ,Conflict,そう
+355,競,きそ,Compete,きょう
+356,岸,きし,Coast,がん
+357,成,な,Become,せい
+358,功,None,Achievement,こう
+359,符,None,Token,ふ
+360,渇,かわ,Thirst,かつ
+361,翌,None,The Following,よく
+362,適,None,Suitable,てき
+363,購,None,Subscription,こう
+364,盗,ぬす,Steal,とう
+365,匂,にお,Scent,None
+366,乏,とぼ,Scarce,ぼう
+367,押,お,Push,おう
+368,延,のば  の,Prolong,えん
+369,貧,まず,Poor,びん  ひん
+370,快,こころよ,Pleasant,かい
+371,遊,あそ,Play,ゆう
+372,枕,まくら,Pillow,しん
+373,撮,と,Photograph,さつ
+374,懐,なつ,Nostalgia,かい
+375,婚,None,Marriage,こん
+376,覧,None,Look At,らん
+377,系,None,Lineage,けい
+378,漏,も,Leak,ろう
+379,照,て,Illuminate,しょう
+380,越,こ,Go Beyond,えつ
+381,浮,う  うわ,Float,ふ
+382,旗,はた,Flag,き
+383,版,None,Edition,はん
+384,預,あず,Deposit,よ
+385,飾,かざ,Decorate,しょく
+386,騒,さわ,Boisterous,そう
+387,背,せ  そむ,Back,はい
+388,魅,None,Alluring,み
+389,更,さら  ふ,Again,こう
+390,烈,はげ,Violent,れつ
+391,促,うなが,Urge,そく
+392,閣,None,The Cabinet,かく
+393,緊,None,Tense,きん
+394,詰,つ  づ,Stuffed,きつ  きち
+395,街,まち,Street,がい  かい
+396,催,もよお,Sponsor,さい
+397,臣,None,Servant,しん  じん
+398,索,None,Search,さく
+399,怖,こわ,Scary,ふ
+400,請,う  こ,Request,せい  しん  しょう
+401,宗,None,Religion,しゅう
+402,監,None,Oversee,かん
+403,航,None,Navigation,こう
+404,雄,おす,Male,ゆう
+405,韓,None,Korea,かん
+406,江,え,Inlet,こう
+407,猛,None,Fierce,もう
+408,恐,おそ  こわ,Fear,きょう
+409,欧,None,Europe,おう
+410,乾,かわ  ほ,Dry,かん
+411,診,み,Diagnose,しん
+412,娘,むすめ,Daughter,None
+413,杯,None,Cup Of Liquid,はい
+414,僚,None,Colleague,りょう
+415,督,None,Coach,とく
+416,壊,こわ,Break,かい
+417,板,いた,Board,はん
+418,宴,うたげ,Banquet,えん
+419,寄,よ,Approach,き
+420,添,そ,Append,てん
+421,積,つ,Accumulate,せき
+422,略,None,Abbreviation,りゃく
+423,婦,None,Wife,ふ
+424,傘,かさ,Umbrella,さん
+425,券,None,Ticket,けん
+426,妙,たえ,Strange,みょう
+427,庫,くら,Storage,こ
+428,隊,None,Squad,たい
+429,精,None,Spirit,せい
+430,移,うつ,Shift,い
+431,逆,さか,Reverse,ぎゃく
+432,録,None,Record,ろく
+433,潔,いさぎよ,Pure,けつ
+434,清,きよ,Pure,せい  しょう  しん
+435,衆,None,Populace,しゅう
+436,奇,None,Odd,き
+437,麗,うるわ,Lovely,れい
+438,並,なら  なみ,Line Up,へい
+439,幼,おさな,Infancy,よう
+440,稚,None,Immature,ち
+441,巨,None,Giant,きょ
+442,凍,こお  こご,Frozen,とう
+443,絶,た,Extinction,ぜつ
+444,程,ほど,Extent,てい
+445,博,None,Exhibition,はく  ばく
+446,修,おさ,Discipline,しゅう
+447,微,かす,Delicate,び
+448,処,ところ,Deal With,しょ
+449,冷,つめ  ひ  さ,Cool,れい
+450,憲,None,Constitution,けん
+451,児,こ,Child,じ
+452,益,None,Benefit,えき
+453,綺,None,Beautiful,き
+454,浜,はま,Beach,ひん
+455,撃,う,Attack,げき
+456,攻,せ,Aggression,こう
+457,屈,かが,Yield,くつ
+458,悩,なや,Worry,のう
+459,織,お,Weave,しき  しょく
+460,訪,たず  おとず,Visit,ほう
+461,迫,せま,Urge,はく
+462,締,し,Tighten,てい
+463,濃,こ,Thick,のう
+464,症,None,Symptom,しょう
+465,胃,None,Stomach,い
+466,段,None,Steps,だん
+467,暇,ひま  いとま,Spare Time,か
+468,眠,ねむ,Sleep,みん
+469,靴,くつ,Shoes,か
+470,就,つ,Settle In,しゅう
+471,給,たま,Salary,きゅう
+472,途,None,Route,と
+473,退,しりぞ  ひ  ど  の,Retreat,たい
+474,痛,いた,Pain,つう
+475,惑,まど,Misguided,わく
+476,貸,か,Lend,たい
+477,誘,さそ,Invite,ゆう
+478,健,None,Healthy,けん
+479,郎,None,Guy,ろう
+480,極,きわ,Extreme,きょく  ごく
+481,端,はし  はた,Edge,たん
+482,康,None,Ease,こう
+483,睡,None,Drowsy,すい
+484,腹,はら  なか,Belly,ふく
+485,招,まね,Beckon,しょう
+486,迷,まよ,Astray,めい
+487,昇,のぼ,Ascend,しょう
+488,怒,おこ  いか,Angry,ど
+489,筆,ふで,Writing Brush,ひつ
+490,汗,あせ,Sweat,かん
+491,怪,あや,Suspicious,かい  け
+492,突,つ,Stab,とつ
+493,刺,さ,Stab,し
+494,振,ふ,Shake,しん
+495,印,しるし,Seal,いん
+496,貯,たくわ,Savings,ちょ
+497,河,かわ,River,か
+498,復,None,Restore,ふく
+499,豚,ぶた,Pork,とん
+500,従,したが,Obey,じゅう
+501,針,はり,Needle,しん
+502,郵,None,Mail,ゆう
+503,鉛,なまり,Lead,えん
+504,授,さず,Instruct,じゅ
+505,徴,None,Indication,ちょう
+506,我,われ,I,が
+507,障,さわ,Hinder,しょう
+508,占,うらな  し,Fortune,せん
+509,激,はげ,Fierce,げき
+510,励,はげ,Encourage,れい
+511,往,None,Depart,おう
+512,造,つく,Create,ぞう
+513,創,None,Create,そう
+514,較,None,Contrast,かく  こう
+515,故,ゆえ,Circumstance,こ
+516,討,None,Chastise,とう
+517,菓,None,Cake,か
+518,獣,けもの,Beast,じゅう
+519,独,ひと,Alone,どく
+520,再,ふたた,Again,さ  さい
+521,接,つ,Adjoin,せつ
+522,渡,わた,Transit,と
+523,補,おぎな,Supplement,ほ
+524,訴,うった,Sue,そ
+525,絞,し  しぼ,Strangle,こう
+526,影,かげ,Shadow,えい
+527,構,かま,Set Up,こう
+528,捜,さが,Search,そう
+529,巻,ま,Scroll,かん
+530,景,None,Scene,けい
+531,替,か,Replace,たい
+532,豊,ゆた,Plentiful,ほう
+533,肥,こ  こえ,Obese,ひ
+534,限,かぎ,Limit,げん
+535,訟,None,Lawsuit,しょう
+536,含,ふく,Include,がん
+537,模,None,Imitation,も  ぼ
+538,隠,かく,Hide,いん
+539,掛,か,Hang,がい
+540,与,あた,Give,よ
+541,満,み,Full,まん
+542,鮮,あざ,Fresh,せん
+543,抜,ぬ,Extract,ばつ  はつ  はい
+544,効,き,Effective,こう
+545,響,ひび,Echo,きょう
+546,況,None,Condition,きょう
+547,輩,None,Comrade,はい
+548,候,None,Climate,こう
+549,捕,つか  とら,Catch,ほ
+550,捉,とら,Catch,そく
+551,属,None,Belong,ぞく
+552,票,None,Ballot,ひょう
+553,逮,None,Apprehend,たい
+554,居,い,Alive,きょ
+555,慣,な,Accustomed,かん
+556,腰,こし,Waist,よう
+557,輸,None,Transport,ゆ
+558,触,さわ  ふ,Touch,しょく
+559,株,かぶ,Stocks,しゅ
+560,肩,かた,Shoulder,けん
+561,供,とも  そな,Servant,きょう
+562,販,None,Sell,はん
+563,量,はか,Quantity,りょう
+564,質,None,Quality,しつ  しち
+565,載,の,Publish,さい
+566,管,くだ,Pipe,かん
+567,狭,せま  せば,Narrow,きょう
+568,型,かた,Model,けい
+569,武,たけ,Military,ぶ  む
+570,述,の,Mention,じゅつ
+571,製,None,Manufacture,せい
+572,環,None,Loop,かん
+573,視,み,Look At,し
+574,層,None,Layer,そう
+575,展,のぶ  のび,Expand,てん
+576,象,None,Elephant,ぞう  しょう
+577,差,さ,Distinction,さ
+578,違,ちが,Different,い
+579,届,とど,Deliver,None
+580,祝,いわ,Celebrate,しゅく  しゅう
+581,担,にな  かつ,Carry,たん
+582,燃,も,Burn,ねん
+583,境,さかい,Boundary,きょう
+584,腕,うで,Arm,わん
+585,額,ひたい,Amount,がく
+586,庁,None,Agency,ちょう
+587,看,None,Watch Over,かん
+588,幹,みき,Tree Trunk,かん
+589,師,None,Teacher,し
+590,沢,さわ,Swamp,たく
+591,優,やさ  すぐ,Superior,ゆう
+592,張,は,Stretch,ちょう
+593,準,None,Standard,じゅん
+594,規,None,Standard,き
+595,則,のっと,Rule,そく
+596,備,そな,Provide,び
+597,現,あらわ,Present Time,げん
+598,演,None,Perform,えん
+599,収,おさ,Obtain,しゅう
+600,乳,ちち,Milk,にゅう
+601,贅,いぼ,Luxury,ぜい
+602,革,かわ,Leather,かく
+603,導,みちび,Lead,どう
+604,律,None,Law,りつ
+605,裁,さば  た,Judge,さい
+606,宅,None,House,たく
+607,停,None,Halt,てい
+608,俳,None,Haiku,はい
+609,秀,ひい,Excel,しゅう
+610,職,None,Employment,しょく
+611,割,わり  わ,Divide,かつ
+612,鬼,おに,Demon,き
+613,護,None,Defend,ご
+614,城,しろ,Castle,じょう
+615,施,ほどこ,Carry Out,し
+616,崎,さき,Cape,き
+617,呼,よ,Call,こ
+618,藤,ふじ,Wisteria,とう  どう
+619,観,み,View,かん
+620,副,None,Vice,ふく
+621,価,あたい,Value,か
+622,値,ね  あたい,Value,ち
+623,統,す,Unite,とう
+624,脱,ぬ,Undress,だつ
+625,領,None,Territory,りょう
+626,過,す  あやま,Surpass,か
+627,吸,す,Suck,きゅう
+628,袖,そで,Sleeve,しゅう
+629,宮,みや,Shinto Shrine,きゅう
+630,応,None,Respond,おう
+631,域,None,Region,いき
+632,置,お,Put,ち
+633,提,None,Present,てい
+634,策,None,Plan,さく
+635,案,None,Plan,あん
+636,罰,ばっ,Penalty,ばつ
+637,坊,None,Monk,ぼう
+638,営,いとな,Manage,えい
+639,寝,ね,Lie Down,しん
+640,示,しめ,Indicate,じ  し
+641,諦,あきら,Give Up,てい
+642,勢,いきお,Force,せい  せ
+643,姿,すがた,Figure,し
+644,費,つい,Expense,ひ
+645,各,おの,Each,かく
+646,賀,None,Congratulations,が
+647,状,None,Condition,じょう
+648,誕,None,Birth,たん
+649,態,わざ,Appearance,たい
+650,援,None,Aid,えん
+651,総,None,Whole,そう
+652,解,と,Untie,かい
+653,税,None,Tax,ぜい
+654,務,つと,Task,む
+655,派,None,Sect,は
+656,権,None,Rights,けん
+657,義,None,Righteousness,ぎ
+658,資,None,Resources,し
+659,認,みと,Recognize,にん
+660,挙,あ,Raise,きょ
+661,企,くわだ,Plan,き
+662,際,きわ,Occasion,さい
+663,件,None,Matter,けん
+664,審,None,Judge,しん
+665,判,None,Judge,はん
+666,査,None,Inspect,さ
+667,増,ふ  ま,Increase,ぞう
+668,岡,おか,Hill,None
+669,検,None,Examine,けん
+670,評,None,Evaluate,ひょう
+671,設,もう,Establish,せつ
+672,羨,うらや,Envy,せん
+673,敵,かな  かたき,Enemy,てき
+674,素,None,Element,そ  す
+675,任,まか,Duty,にん
+676,断,ことわ  た,Cut Off,だん
+677,批,None,Criticism,ひ
+678,制,None,Control,せい
+679,省,はぶ,Conserve,しょう  せい
+680,委,None,Committee,い
+681,済,す,Come To An End,さい
+682,条,None,Clause,じょう
+683,責,せ,Blame,せき
+684,敷,しき  し,Spread,ふ
+685,鋭,するど,Sharp,えい
+686,獲,え,Seize,かく
+687,犠,None,Sacrifice,ぎ
+688,顧,かえり,Review,こ
+689,駐,None,Resident,ちゅう
+690,排,None,Reject,はい
+691,褒,ほ,Praise,ほう
+692,携,たずさ,Portable,けい
+693,柱,はしら,Pillar,ちゅう
+694,巡,めぐ,Patrol,じゅん
+695,繁,しげ,Overgrown,はん
+696,隣,となり,Neighbor,りん
+697,殖,ふ,Multiply,しょく
+698,殿,との  どの,Milord,でん
+699,茂,しげ,Luxuriant,も
+700,誉,ほ,Honor,よ
+701,嬉,うれ,Glad,き
+702,俊,None,Genius,しゅん
+703,駆,か,Gallop,く
+704,頻,しき,Frequent,ひん
+705,孝,None,Filial Piety,こう
+706,雅,みや,Elegant,が
+707,剤,None,Dose,ざい
+708,堀,ほり,Ditch,くつ
+709,薄,うす,Dilute,はく
+710,兼,か,Concurrently,けん
+711,戒,いまし,Commandment,かい
+712,衝,つ,Collide,しょう
+713,唱,とな,Chant,しょう
+714,吹,ふ,Blow,すい
+715,敏,None,Alert,びん
+716,祉,None,Welfare,し
+717,壁,かべ,Wall,へき
+718,甲,か,Turtle Shell,こう  かん
+719,鋼,はがね,Steel,こう
+720,奪,うば,Rob,だつ
+721,稲,いね  いな,Rice Plant,None
+722,拒,こば,Refuse,きょ
+723,勧,すす,Recommend,かん
+724,圏,None,Range,けん
+725,隆,None,Prosperity,りゅう
+726,斐,None,Patterned,い
+727,項,None,Paragraph,こう
+728,片,かた,One Sided,へん
+729,阜,None,Mound,ふ
+730,謙,None,Modesty,けん
+731,躍,おど,Leap,やく
+732,慎,つつし,Humility,しん
+733,御,お,Honorable,ご
+734,邦,くに,Home Country,ほう
+735,仙,None,Hermit,せん
+736,銃,None,Gun,じゅう
+737,枠,わく,Frame,None
+738,群,む  むら,Flock,ぐん
+739,免,まぬか,Excuse,めん
+740,雇,やと,Employ,こ
+741,譲,ゆず,Defer,じょう
+742,棋,ご,Chess Piece,き
+743,埼,さい,Cape,き
+744,鈴,すず,Buzzer,りん
+745,埋,う,Bury,まい
+746,岐,None,Branch Off,き  ぎ
+747,渋,しぶ,Bitter,じゅう
+748,充,あ  み,Allocate,じゅう
+749,控,ひか,Abstain,こう
+750,盤,None,Tray,ばん
+751,緒,お,Together,しょ
+752,称,とな  たた  ほめ,Title,しょう
+753,懸,か,Suspend,けん
+754,抑,おさ,Suppress,よく
+755,繰,く,Spin,そう
+756,還,かえ,Send Back,かん
+757,択,えら,Select,たく
+758,贈,おく,Presents,ぞう
+759,娠,None,Pregnant,しん
+760,妊,None,Pregnant,にん
+761,奏,かな,Play Music,そう
+762,緩,ゆる,Loose,かん
+763,傾,かたむ,Lean,けい
+764,膝,ひざ,Knee,None
+765,併,あわ,Join,へい
+766,奥,おく,Interior,おう
+767,扱,あつか,Handle,きゅう
+768,逃,に  のが  の,Escape,とう
+769,刊,None,Edition,かん
+770,描,か  えが,Draw,びょう
+771,避,さ  よ,Dodge,ひ
+772,致,いた,Do,ち
+773,需,None,Demand,じゅ
+774,却,かえって,Contrary,きゃく
+775,託,かこ,Consign,たく
+776,慮,おもんぱく  おもんぱか,Consider,りょ
+777,房,ふさ,Cluster,ぼう
+778,賂,None,Bribe,ろ
+779,賄,まかな,Bribe,わい
+780,宜,よろ,Best Regards,ぎ
+781,齢,よわい,Age,れい
+782,伴,ともな,Accompany,はん
+783,削,けず,Whittle Down,さく
+784,跡,あと,Traces,せき
+785,執,と,Tenacious,しゅう  しつ
+786,闘,たたか,Struggle,とう
+787,串,くし,Skewer,None
+788,昭,None,Shining,しょう
+789,戻,もど,Return,れい
+790,抵,None,Resist,てい
+791,償,つぐな,Reparation,しょう
+792,募,つの,Recruit,ぼ
+793,刑,None,Punish,けい
+794,契,None,Pledge,けい
+795,兆,きざ,Omen,ちょう
+796,臨,のぞ,Look To,りん
+797,聴,き,Listen,ちょう
+798,旬,None,In Season,しゅん  じゅん
+799,抱,だ  かか  いだ,Hug,ほう
+800,跳,と  は,Hop,ちょう
+801,湾,None,Gulf,わん
+802,香,かお  か,Fragrance,こう  きょう
+803,漁,あさ,Fishing,ぎょ  りょう
+804,恵,めぐ,Favor,え  けい
+805,眉,まゆ,Eyebrows,み
+806,爆,は,Explode,ばく
+807,掲,かか,Display,けい
+808,遣,つか  や,Dispatch,けん
+809,崩,くず,Crumble,ほう
+810,抗,あらが,Confront,こう
+811,葬,ほうむ,Burial,そう
+812,弾,ひ  はず  たま,Bullet,だん
+813,塁,None,Base,るい
+814,陣,None,Army Base,じん
+815,狙,ねら,Aim,そ
+816,患,わずら,Afflicted,かん
+817,幅,はば,Width,ふく
+818,超,こ,Ultra,ちょう
+819,頼,たの  たよ,Trust,らい
+820,貿,None,Trade,ぼう
+821,甘,あま,Sweet,かん
+822,姓,None,Surname,せい  しょう
+823,伸,の,Stretch,しん
+824,踏,ふ,Step,とう
+825,縄,なわ,Rope,じょう
+826,依,よ,Reliant,い
+827,及,およ,Reach,きゅう
+828,摘,つ,Pluck,てき
+829,沖,おき,Open Sea,ちゅう
+830,献,たてまつ,Offer,けん  こん
+831,廃,すた,Obsolete,はい
+832,核,None,Nucleus,かく
+833,奈,None,Nara,な
+834,維,None,Maintain,い
+835,遺,のこ,Leave Behind,い
+836,継,つ,Inherit,けい
+837,療,None,Heal,りょう
+838,津,つ,Haven,しん
+839,般,None,Generally,はん
+840,旧,None,Former,きゅう
+841,牙,きば,Fang,げ  が
+842,換,か,Exchange,かん
+843,鹿,か  しか,Deer,ろく
+844,伎,わざ,Deed,き
+845,債,None,Debt,さい
+846,舞,まい  ま,Dance,ぶ
+847,将,None,Commander,しょう
+848,盟,None,Alliance,めい
+849,諾,None,Agreement,だく
+850,酢,す,Vinegar,さく
+851,厄,None,Unlucky,やく
+852,亀,かめ,Turtle,き
+853,破,やぶ,Tear,は
+854,剣,つるぎ,Sword,けん
+855,滞,とどこお,Stagnate,たい
+856,醤,None,Soy Sauce,しょう
+857,汁,しる,Soup,じゅう
+858,遅,おそ  おく,Slow,ち
+859,恥,は  はじ,Shame,ち
+860,為,ため  な  す,Sake,い
+861,獄,None,Prison,ごく
+862,鍋,なべ,Pot,か
+863,払,はら,Pay,ふつ
+864,己,おのれ,Oneself,こ  き
+865,油,あぶら,Oil,ゆ
+866,互,たが,Mutual,ご
+867,測,はか,Measure,そく
+868,寿,ことぶき,Lifespan,じゅ  す
+869,講,None,Lecture,こう
+870,湖,みずうみ,Lake,こ
+871,介,None,Jammed In,かい
+872,紹,None,Introduce,しょう
+873,彼,かれ  かの,He,ひ
+874,炎,ほのお,Flame,えん
+875,酔,よ,Drunk,すい
+876,舎,None,Cottage,しゃ
+877,銅,あかがね,Copper,どう
+878,杉,すぎ,Cedar,None
+879,彫,ほ,Carve,ちょう
+880,噌,None,Boisterous,そ
+881,熊,くま,Bear,None
+882,拝,おが,Worship,はい
+883,勤,つと,Work,きん
+884,縦,たて,Vertical,じゅう
+885,貴,とうと,Valuable,き
+886,吐,は  つ,Throw Up,と
+887,痩,や,Thin,そう
+888,粋,いき,Stylish,すい
+889,隷,None,Slave,れい
+890,縮,ちぢ  ちじ,Shrink,しゅく
+891,射,い  さ  う,Shoot,しゃ
+892,沿,そ,Run Alongside,えん
+893,腐,くさ,Rot,ふ
+894,丼,どんぶり,Rice Bowl,どん
+895,薦,すす,Recommend,せん
+896,純,None,Pure,じゅん
+897,芋,いも,Potato,None
+898,源,みなもと,Origin,げん
+899,誤,あやま,Mistake,ご
+900,磁,None,Magnet,じ
+901,損,そこ,Loss,そん
+902,臓,None,Internal Organs,ぞう
+903,推,お,Infer,すい
+904,聖,None,Holy,せい
+905,奴,やつ,Dude,ど
+906,降,お  ふ,Descend,こう
+907,歓,None,Delight,かん
+908,紅,べに  くれない,Deep Red,こう
+909,幕,とばり,Curtain,まく  ばく
+910,承,うけたまわ,Consent,しょう
+911,爪,つま  つめ,Claw,そう
+912,刻,きざ,Carve,こく
+913,揮,None,Brandish,き
+914,枝,えだ,Branch,し
+915,豆,まめ,Beans,とう
+916,窓,まど,Window,そう
+917,諸,もろ,Various,しょ
+918,納,おさ  なっ,Supply,のう
+919,糖,None,Sugar,とう
+920,蔵,くら,Storehouse,ぞう
+921,蒸,む,Steam,じょう
+922,簡,None,Simplicity,かん
+923,砂,すな,Sand,さ
+924,噂,うわさ,Rumor,そん
+925,熟,う,Ripen,じゅく
+926,尊,とうと  たっと,Revered,そん
+927,敬,うやま,Respect,けい
+928,賃,None,Rent,ちん
+929,宣,のたま,Proclaim,せん
+930,盛,も  さか,Pile,せい  じょう
+931,否,いな  いや,No,ひ
+932,筋,すじ,Muscle,きん
+933,操,あやつ  みさお,Manipulate,そう
+934,誌,None,Magazine,し
+935,肺,None,Lung,はい
+936,忠,None,Loyalty,ちゅう
+937,暮,く,Livelihood,ぼ
+938,拡,ひろ,Extend,かく
+939,皇,None,Emperor,こう
+940,異,こと,Differ,い
+941,漠,None,Desert,ばく
+942,垂,た,Dangle,すい
+943,閉,し  と,Closed,へい
+944,裏,うら,Backside,り
+945,著,いちじる  あらわ,Author,ちょ
+946,装,よそお,Attire,そう  しょう
+947,灰,はい,Ashes,かい
+948,傷,きず  いた,Wound,しょう
+949,迎,むか,Welcome,げい
+950,暖,あたた,Warm,だん
+951,欲,ほ,Want,よく
+952,訳,わけ,Translation,やく
+953,捨,す,Throw Away,しゃ
+954,厳,きび  おごそ,Strict,げん  ごん
+955,秘,ひ,Secret,ひ
+956,密,ひそ,Secrecy,みつ
+957,桜,さくら,Sakura,おう  よう
+958,雑,None,Random,ざつ  ぞう
+959,序,つい  ついで,Preface,じょ
+960,党,None,Party,とう
+961,久,ひさ,Long Time,きゅう  く
+962,恩,None,Kindness,おん
+963,興,None,Interest,きょう  こう
+964,志,こころざし,Intention,し
+965,採,と,Gather,さい
+966,液,None,Fluid,えき
+967,眼,め,Eyeball,がん
+968,績,None,Exploits,せき
+969,永,None,Eternity,えい
+970,卵,たまご,Egg,らん
+971,染,しみ  そ  し,Dye,せん
+972,複,None,Duplicate,ふく
+973,飼,か,Domesticate,し
+974,汚,よご  きたな  けが,Dirty,お
+975,机,つくえ,Desk,き
+976,衛,None,Defense,えい
+977,込,こ,Crowded,None
+978,銭,ぜに,Coin,せん
+979,祖,None,Ancestor,そ
+980,賛,None,Agree,さん
+981,酸,す,Acid,さん
+982,倉,くら,Warehouse,そう
+983,徳,None,Virtue,とく
+984,脈,None,Vein,みゃく
+985,菜,な,Vegetable,さい
+986,掃,は,Sweep,そう
+987,驚,おどろ,Surprised,きょう
+988,偵,None,Spy,てい
+989,嘆,なげ,Sigh,たん
+990,華,はな,Showy,か
+991,散,ち,Scatter,さん
+992,富,と  とみ,Rich,ふ
+993,似,に,Resemble,ね  じ
+994,救,すく,Rescue,きゅう
+995,既,すで,Previously,き
+996,粉,こな  こ,Powder,ふん
+997,棒,None,Pole,ぼう
+998,普,None,Normal,ふ
+999,巣,す,Nest,そう
+1000,泥,どろ,Mud,でい
+1001,鑑,None,Model,かん
+1002,豪,None,Luxurious,ごう
+1003,探,さが  さぐ,Look For,たん
+1004,陸,None,Land,りく
+1005,編,あ,Knit,へん
+1006,尋,たず  ひろ,Inquire,じん
+1007,幾,いく,How Many,き
+1008,墓,はか,Grave,ぼ
+1009,孫,まご,Grandchild,そん
+1010,貨,None,Freight,か
+1011,除,のぞ,Exclude,じょ  じ
+1012,均,ひと,Equal,きん
+1013,融,None,Dissolve,ゆう
+1014,径,None,Diameter,けい
+1015,離,はな,Detach,り
+1016,廊,None,Corridor,ろう
+1017,帯,おび,Belt,たい
+1018,搬,None,Transport,はん
+1019,墳,None,Tomb,ふん
+1020,峰,みね,Summit,ほう
+1021,奮,ふる,Stirred Up,ふん
+1022,軌,None,Rut,き
+1023,壮,None,Robust,そう
+1024,訂,None,Revise,てい
+1025,亭,None,Restaurant,てい
+1026,簿,None,Record Book,ぼ
+1027,漫,None,Manga,まん
+1028,仰,あお,Look Up To,ぎょう  こう
+1029,銘,None,Inscription,めい
+1030,涯,はて,Horizon,がい
+1031,鬱,None,Gloom,うつ
+1032,翻,ひるがえ,Flip,ほん
+1033,疫,None,Epidemic,えき
+1034,后,きさき,Empress,こう  ご
+1035,堤,つつみ,Embankment,てい
+1036,淀,よど,Eddy,None
+1037,漂,ただよ,Drift,ひょう
+1038,堰,せき,Dam,えん
+1039,晶,None,Crystal,しょう
+1040,蟹,かに,Crab,None
+1041,廷,None,Courts,てい
+1042,諮,はか,Consult,し
+1043,彰,None,Clear,しょう
+1044,唐,None,China,とう
+1045,伯,None,Chief,はく  お
+1046,洞,ほら,Cave,どう
+1047,駄,None,Burdensome,だ  た
+1048,把,None,Bundle,は  わ
+1049,鰐,わに,Alligator,None
+1050,巧,うま  たく,Adept,こう
+1051,偶,たま,Accidentally,ぐう
+1052,潤,うるお  うる,Watered,じゅん
+1053,俗,None,Vulgar,ぞく
+1054,誓,ちか,Vow,せい
+1055,征,None,Subjugate,せい
+1056,剛,None,Sturdy,ごう
+1057,唯,ただ,Solely,ゆい
+1058,紫,むらさき,Purple,し
+1059,刈,か,Prune,None
+1060,妃,None,Princess,ひ
+1061,陶,None,Pottery,とう
+1062,壇,None,Podium,だん
+1063,抽,None,Pluck,ちゅう
+1064,珠,たま,Pearl,しゅ
+1065,尼,あま,Nun,に
+1066,桑,くわ,Mulberry,そう
+1067,隔,へだ,Isolate,かく
+1068,勘,None,Intuition,かん
+1069,劣,おと,Inferiority,れつ
+1070,浸,ひた,Immersed,しん
+1071,陛,None,Highness,へい
+1072,礎,いしずえ,Foundation,そ
+1073,淡,あわ,Faint,たん
+1074,奨,None,Encourage,しょう
+1075,衰,おとろ,Decline,すい
+1076,拓,None,Cultivation,たく
+1077,鶴,つる,Crane,かく
+1078,謀,はか,Conspire,ぼう
+1079,慌,あわ,Confused,こう
+1080,悟,さと,Comprehension,ご
+1081,駒,こま,Chess Piece,く
+1082,覆,おお  くつがえ,Capsize,ふく
+1083,煮,に,Boil,しゃ
+1084,拘,かか,Arrest,こう
+1085,概,おおむ,Approximation,がい
+1086,脅,おど  おびや,Threaten,きょう
+1087,迅,None,Swift,じん
+1088,餓,う,Starve,が
+1089,飢,う,Starve,き
+1090,班,None,Squad,はん
+1091,蛇,へび,Snake,じゃ
+1092,盾,たて,Shield,じゅん
+1093,耐,た,Resistant,たい
+1094,悔,くや  く,Regret,かい
+1095,憶,None,Recollection,おく
+1096,輝,かがや,Radiance,き
+1097,貼,は,Paste,ちょう
+1098,塗,ぬ,Paint,と
+1099,帳,とばり,Notebook,ちょう
+1100,蚊,か,Mosquito,None
+1101,溶,と,Melt,よう
+1102,畜,None,Livestock,ちく
+1103,灯,あかり  とも,Lamp,とう
+1104,辱,はずかし,Humiliate,じょく
+1105,騎,None,Horse,き
+1106,麻,あさ,Hemp,ま
+1107,穫,None,Harvest,かく
+1108,霜,しも,Frost,None
+1109,尽,つ,Exhaust,じん
+1110,斜,なな,Diagonal,しゃ
+1111,闇,やみ,Darkness,あん  おん
+1112,踊,おど,Dance,よう
+1113,培,つちか,Cultivate,ばい
+1114,隙,すき,Crevice,げき
+1115,彩,いろど,Coloring,さい
+1116,賢,かしこ,Clever,けん
+1117,鉢,None,Bowl,はち
+1118,咲,さ,Blossom,しょう
+1119,殴,なぐ,Assault,おう
+1120,脇,わき,Armpit,きょう
+1121,蓄,たくわ,Amass,ちく
+1122,遂,と  つい,Accomplish,すい
+1123,柳,やなぎ,Willow,りゅう
+1124,芯,None,Wick,しん
+1125,巾,None,Towel,きん
+1126,胴,None,Torso,どう
+1127,畳,たたみ,Tatami Mat,じょう
+1128,粘,ねば,Sticky,ねん
+1129,砕,くだ,Smash,さい
+1130,尺,None,Shaku,しゃく
+1131,憩,いこ,Rest,けい
+1132,爽,さわ,Refreshing,そう
+1133,虹,にじ,Rainbow,こう
+1134,哀,あわ,Pathetic,あい
+1135,婆,ばあ,Old Woman,ば
+1136,掌,てのひら,Manipulate,しょう
+1137,唇,くちびる,Lips,しん
+1138,如,ごと,Likeness,じょ
+1139,詐,いつわ,Lie,さ
+1140,伊,だ,Italy,い
+1141,挿,さ,Insert,そう
+1142,佐,None,Help,さ
+1143,憎,にく,Hate,ぞう
+1144,帽,None,Hat,ぼう
+1145,恨,うら,Grudge,こん
+1146,扉,とびら,Front Door,ひ
+1147,扇,おうぎ  あお,Folding Fan,せん
+1148,霧,きり,Fog,む
+1149,塀,None,Fence,へい
+1150,滴,したた  しずく,Drip,てき
+1151,欺,あざむ,Deceit,ぎ
+1152,墜,None,Crash,つい
+1153,粧,None,Cosmetics,しょう
+1154,炊,た,Cook,すい
+1155,崖,がけ,Cliff,がい
+1156,瞭,None,Clear,りょう
+1157,箸,はし,Chopsticks,ちゃく
+1158,幣,None,Cash,へい
+1159,零,こぼ,Zero,れい
+1160,歳,None,Years Old,さい  せい
+1161,阻,はば,Thwart,そ
+1162,錬,ね,Tempering,れん
+1163,租,None,Tariff,そ
+1164,帝,みかど,Sovereign,てい
+1165,斬,き,Slice,ざん
+1166,黙,だま,Shut Up,もく
+1167,架,か,Shelf,か
+1168,幽,None,Secluded,ゆう
+1169,俵,たわら,Sack,ひょう
+1170,寧,むし,Rather,ねい
+1171,瞳,ひとみ,Pupil,とう  どう
+1172,誇,ほこ,Pride,こ
+1173,棟,None,Pillar,とう
+1174,猿,さる,Monkey,えん
+1175,庄,None,Manor,しょう
+1176,盆,None,Lantern Festival,ぼん
+1177,鍵,かぎ,Key,けん
+1178,吾,わが,I,ご
+1179,穂,ほ,Head of Plant,すい
+1180,癖,くせ,Habit,へき
+1181,碁,None,Go,ご
+1182,鍛,きた,Forge,たん
+1183,鈍,にぶ  のろ,Dull,どん
+1184,鳩,はと,Dove,く
+1185,寮,None,Dormitory,りょう
+1186,魔,None,Devil,ま
+1187,綿,わた,Cotton,めん
+1188,涼,すず,Cool,りょう
+1189,菊,None,Chrysanthemum,きく
+1190,椅,None,Chair,い
+1191,孔,あな,Cavity,こう
+1192,穏,おだ,Calm,おん
+1193,泡,あわ,Bubbles,ほう
+1194,瞬,またた,Blink,しゅん
+1195,墨,すみ,Black Ink,None
+1196,井,い,Well,しょう
+1197,滝,たき,Waterfall,None
+1198,凶,None,Villain,きょう
+1199,卓,None,Table,たく
+1200,硬,かた,Stiff,こう
+1201,眺,なが,Stare,ちょう
+1202,矛,ほこ,Spear,む
+1203,魂,たましい,Soul,こん
+1204,肌,はだ,Skin,き
+1205,陰,かげ,Shade,いん
+1206,磨,みが,Polish,ま
+1207,裸,はだか,Naked,ら
+1208,嬢,むすめ,Miss,じょう
+1209,狂,くる,Lunatic,きょう
+1210,塊,かたまり,Lump,かい
+1211,澄,す,Lucidity,ちょう
+1212,脚,あし,Leg,きゃく
+1213,狩,か,Hunt,しゅ
+1214,溝,みぞ,Gutter,こう
+1215,霊,None,Ghost,れい  りょう
+1216,賭,か,Gamble,None
+1217,翔,かけ  と,Fly,しょう
+1218,疲,つか,Exhausted,ひ
+1219,稼,かせ,Earnings,か
+1220,湿,しめ,Damp,しつ
+1221,呪,のろ,Curse,じゅ
+1222,塾,None,Cram School,じゅく
+1223,也,なり,Considerably,や
+1224,曇,くも,Cloudy,None
+1225,暦,こよみ,Calendar,れき
+1226,嫁,よめ  とつ,Bride,か
+1227,舟,ふね  ふな,Boat,しゅう
+1228,鐘,かね,Bell,しょう
+1229,菌,None,Bacteria,きん
+1230,頃,ころ  ごろ,Approximate,None
+1231,翼,つばさ,Wing,よく
+1232,朱,あけ,Vermillion,しゅ
+1233,塔,None,Tower,とう
+1234,雷,かみなり,Thunder,らい
+1235,涙,なみだ,Teardrop,るい
+1236,嵐,あらし,Storm,None
+1237,芽,め,Sprout,が
+1238,辛,から  つら,Spicy,しん
+1239,匹,ひき,Small Animal,None
+1240,叫,さけ,Shout,きょう
+1241,棚,たな,Shelf,ほう
+1242,叱,しか,Scold,None
+1243,侍,さむらい,Samurai,None
+1244,謎,なぞ,Riddle,None
+1245,娯,None,Recreation,ご
+1246,挨,None,Push Open,あい
+1247,姫,ひめ,Princess,None
+1248,梨,なし,Pear,None
+1249,桃,もも,Peach,とう
+1250,寸,None,Measurement,すん
+1251,斗,None,Ladle,と
+1252,俺,おれ,I,None
+1253,丘,おか,Hill,きゅう
+1254,髪,かみ,Hair,はつ
+1255,粒,つぶ,Grains,りゅう
+1256,吉,よし,Good Luck,きつ  きち
+1257,釣,つ,Fishing,ちょう
+1258,忍,しの,Endure,にん
+1259,縁,ふち,Edge,えん  ねん
+1260,拶,None,Draw Close,さつ
+1261,竜,たつ,Dragon,りゅう
+1262,笠,かさ,Conical Hat,None
+1263,砲,None,Cannon,ほう
+1264,缶,None,Can,かん
+1265,刃,は,Blade,じん  にん
+1266,誰,だれ,Who,None
+1267,貢,みつ,Tribute,こう
+1268,潮,しお,Tide,ちょう
+1269,裂,さ,Split,れつ
+1270,撲,None,Slap,ぼく
+1271,沈,しず,Sink,ちん
+1272,斉,None,Simultaneous,せい  さい
+1273,封,None,Seal,ふう  ほう
+1274,珍,めずら,Rare,ちん
+1275,刷,す,Printing,さつ
+1276,旨,うま  むね,Point,し
+1277,岳,たけ,Peak,がく
+1278,泰,None,Peace,たい
+1279,牧,まき,Pasture,ぼく
+1280,滋,None,Nourishing,じ
+1281,威,None,Majesty,い
+1282,即,すなわ,Instant,そく
+1283,垣,かき,Hedge,None
+1284,琴,こと,Harp,None
+1285,擦,こす  す,Grate,さつ
+1286,趣,おもむき,Gist,しゅ
+1287,柔,やわ,Gentle,じゅう  にゅう
+1288,炉,いろり,Furnace,ろ
+1289,露,つゆ,Expose,ろ  ろう
+1290,籍,None,Enroll,せき
+1291,距,None,Distance,きょ
+1292,滅,ほろ,Destroy,めつ
+1293,筒,つつ,Cylinder,とう
+1294,懇,None,Courteous,こん
+1295,慰,なぐさ,Consolation,い
+1296,懲,こ,Chastise,ちょう
+1297,摩,さす,Chafe,ま
+1298,朗,ほが,Bright,ろう
+1299,沼,ぬま,Bog,しょう
+1300,襲,おそ,Attack,しゅう
+1301,荒,あ  あら,Wild,こう
+1302,糾,None,Twist,きゅう
+1303,暫,しばら,Temporarily,ざん
+1304,堅,かた,Solid,けん
+1305,滑,すべ  なめ,Slippery,かつ
+1306,揺,ゆ,Shake,よう
+1307,袋,ふくろ,Sack,たい
+1308,斎,いつ,Purification,さい
+1309,哲,None,Philosophy,てつ
+1310,柄,がら,Pattern,へい
+1311,双,ふた,Pair,そう
+1312,泊,と,Overnight,はく
+1313,克,None,Overcome,こく
+1314,網,あみ,Netting,もう
+1315,喪,も,Mourning,そう
+1316,肝,きも,Liver,かん
+1317,芝,しば,Lawn,し
+1318,潟,かた,Lagoon,せき
+1319,揚,あ,Hoist,よう
+1320,枢,からくり,Hinge,すう
+1321,握,にぎ,Grip,あく
+1322,床,ゆか  とこ,Floor,しょう
+1323,括,くく,Fasten,かつ
+1324,範,None,Example,はん
+1325,紛,まぎ  まぐ,Distract,ふん
+1326,掘,ほ,Dig,くつ
+1327,焦,こ  あせ,Char,しょう
+1328,挑,いど,Challenge,ちょう
+1329,綱,つな,Cable,こう
+1330,軸,None,Axis,じく
+1331,到,None,Arrival,とう
+1332,弧,None,Arc,こ
+1333,析,None,Analysis,せき
+1334,包,つつ  くる,Wrap,ほう
+1335,樹,き,Wood,じゅ
+1336,撤,None,Withdrawal,てつ
+1337,艦,None,Warship,かん
+1338,虎,とら,Tiger,こ
+1339,誠,まこと,Sincerity,せい
+1340,措,None,Set Aside,そ
+1341,酎,かも,Sake,ちゅう  ちゅ
+1342,墟,None,Ruins,きょ
+1343,瀬,せ,Rapids,らい
+1344,徹,None,Penetrate,てつ
+1345,伺,うかが,Pay Respects,し
+1346,鉱,あらがね,Mineral,こう
+1347,嘘,うそ,Lie,None
+1348,侵,おか,Invade,しん
+1349,遜,したが,Humble,そん
+1350,仁,None,Humanity,じん
+1351,蜜,None,Honey,みつ
+1352,郷,None,Hometown,きょう
+1353,拳,こぶし,Fist,けん  げん
+1354,蛍,ほたる,Firefly,けい
+1355,畑,はたけ  はた,Field,None
+1356,偽,にせ  いつわ,Fake,ぎ
+1357,潜,くぐ  ひそ  もぐ,Conceal,せん
+1358,衣,ころも  きぬ,Clothes,い  え
+1359,炭,すみ,Charcoal,たん
+1360,儀,None,Ceremony,ぎ
+1361,蜂,はち,Bee,ほう
+1362,拠,よ,Based On,きょ
+1363,至,いた,Attain,し
+1364,凄,すご,Amazing,せい
+1365,棄,None,Abandon,き
+1366,寡,None,Widow,か
+1367,湧,わ,Well,ゆう  ゆ  よう
+1368,渓,たに  たにがわ,Valley,けい
+1369,醜,しこ  みにく,Ugly,しゅう
+1370,拷,None,Torture,ごう
+1371,倹,つづまやか  つま,Thrifty,けん
+1372,畔,あぜ  くろ  ほとり,Shore,はん
+1373,唄,うた,Shamisen Song,ばい
+1374,泌,None,Secrete,ひ  ひつ
+1375,藻,も,Seaweed,そう
+1376,妄,みだ,Reckless,もう  ぼう
+1377,罷,や,Quit,ひ
+1378,坑,None,Pit,こう
+1379,殉,None,Martyr,じゅん
+1380,桟,かけはし,Jetty,さん  せん
+1381,藍,あい,Indigo,らん
+1382,謹,つつし,Humble,きん
+1383,匿,かくま,Hide,とく
+1384,婿,むこ,Groom,せい
+1385,升,ます,Grid,しょう
+1386,漸,ようや  やや,Gradually,ぜん
+1387,狐,きつね,Fox,こ
+1388,逝,い  ゆ,Die,せい
+1389,痢,None,Diarrhea,り
+1390,囚,とら,Criminal,しゅう
+1391,矯,た,Correct,きょう
+1392,某,それがし  なにがし,Certain,ぼう
+1393,劾,None,Censure,がい
+1394,廉,None,Bargain,れん
+1395,蛮,えびす,Barbarian,ばん
+1396,煩,うるさ  わずら,Annoy,はん  ぼん
+1397,崇,あが,Worship,すう
+1398,梓,あずさ,Wood Block,し
+1399,浪,None,Wander,ろう
+1400,甚,はなは,Very,じん
+1401,叔,None,Uncle,しゅく
+1402,遷,うつ  みやこがえ,Transition,せん
+1403,紡,つむ,Spinning,ぼう
+1404,汰,おご  にご  よな,Select,た  たい
+1405,蔑,さげす,Scorn,べつ
+1406,沙,すな  よなげる,Sand,さ  しゃ
+1407,峠,とうげ,Ridge,None
+1408,礁,None,Reef,しょう
+1409,吟,None,Recital,ぎん
+1410,曹,つかさ  ともがら  へや,Official,そう  ぞう
+1411,忌,い,Mourning,き
+1412,姻,None,Marry,いん
+1413,卑,いや,Lowly,ひ
+1414,憧,あこが,Long For,しょう  とう  どう
+1415,閑,None,Leisure,かん
+1416,漆,うるし,Lacquer,しつ
+1417,擬,まが  もど,Imitate,ぎ
+1418,胆,きも,Guts,たん
+1419,睦,むつ,Friendly,ぼく  もく
+1420,雌,めす  め  めん,Female,し
+1421,禍,わざわい,Evil,か
+1422,堪,た  こた  こ,Endure,かん  たん
+1423,侮,あなず  あなど,Despise,ぶ
+1424,篤,あつ,Deliberate,とく
+1425,酪,None,Dairy,らく
+1426,慶,よろこ,Congratulate,けい
+1427,詠,よ  うた,Compose,えい
+1428,拙,つたな,Clumsy,せつ
+1429,鋳,い,Cast,ちゅう
+1430,岬,みさき,Cape,こう
+1431,屯,None,Barracks,とん
+1432,亜,つ,Asia,あ
+1433,硫,None,Sulfur,りゅう
+1434,窃,ぬす  ひそ,Steal,せつ
+1435,絹,きぬ,Silk,けん
+1436,慨,None,Sigh,がい
+1437,酌,く,Serve,しゃく
+1438,菅,すげ,Sedge,かん  けん
+1439,帆,ほ,Sail,はん
+1440,奔,はし,Run,ほん
+1441,朽,く,Rot,きゅう
+1442,漣,さざなみ,Ripples,れん  らん
+1443,憤,いきどお,Resent,ふん
+1444,肖,あやか,Resemblance,しょう
+1445,嘱,しょく  たの,Request,しょく
+1446,享,う,Receive,きょう  こう
+1447,戯,ざ  じゃ  たわむ,Play,ぎ  げ
+1448,赦,None,Pardon,しゃ
+1449,椎,う  つち,Oak,つい  すい
+1450,濁,にご,Muddy,だく  じょく
+1451,媒,なこうど,Mediator,ばい
+1452,錠,None,Lock,じょう
+1453,殻,から  がら,Husk,かく  こく  ばい
+1454,傑,すぐ,Greatness,けつ
+1455,淑,しと,Graceful,しゅく
+1456,璃,None,Glassy,り
+1457,譜,None,Genealogy,ふ
+1458,藩,None,Fiefdom,はん
+1459,凌,しの,Endure,りょう
+1460,剖,None,Divide,ぼう
+1461,暁,あかつき  さと,Dawn,きょう  ぎょう
+1462,瑞,みず  しるし,Congratulations,すい  ずい
+1463,鶏,とり  にわとり,Chicken,けい
+1464,迭,None,Alternate,てつ
+1465,扶,たす,Aid,ふ
+1466,陪,None,Accompany,ばい
+1467,胎,None,Womb,たい
+1468,遍,あまね,Universal,へん
+1469,坪,つぼ,Two Mat Area,へい
+1470,槽,ふね,Tank,そう
+1471,萌,きざ  めばえ  も,Sprout,ほう
+1472,羅,うすもの,Spread Out,ら
+1473,喝,None,Scold,かつ
+1474,俸,None,Salary,ほう
+1475,旋,None,Rotation,せん
+1476,賊,None,Robber,ぞく
+1477,峡,はざま,Ravine,きょう  こう
+1478,哉,や  かな,Question Mark,さい
+1479,漬,つ,Pickle,し
+1480,蒼,あお,Pale,そう
+1481,紺,None,Navy,こん
+1482,膜,None,Membrane,まく
+1483,楓,かえで,Maple,ふう
+1484,乙,おと  きのと,Latter,おつ  いつ
+1485,瑠,None,Lapis Lazuli,る  りゅう
+1486,腸,はらわた,Intestines,ちょう
+1487,遮,さえぎ,Intercept,しゃ
+1488,閲,けみ,Inspection,えつ
+1489,酵,None,Fermentation,こう
+1490,伐,う  き  そむ,Fell,ばつ
+1491,衡,None,Equilibrium,こう
+1492,鼓,つづみ,Drum,こ
+1493,堕,お  くず,Degenerate,だ
+1494,敢,あ,Daring,かん
+1495,烏,からす,Crow,うお
+1496,凸,でこ,Convex,とつ
+1497,弔,とぶら  とむら,Condolence,ちょう
+1498,凹,くぼ  へこ  ぼこ,Concave,おう
+1499,醸,かも,Brew,じょう
+1500,盲,めくら,Blind,もう
+1501,款,None,Article,かん
+1502,智,None,Wisdom,ち
+1503,碑,いしぶみ,Tombstone,ひ
+1504,窒,None,Suffocate,ちつ
+1505,猶,なお,Still,ゆう  ゆ
+1506,搾,しぼ,Squeeze,さく
+1507,舶,None,Ship,はく
+1508,縫,ぬ,Sew,ほう
+1509,恭,うやうや,Respect,きょう
+1510,靖,やす,Peaceful,じょう  せい
+1511,尉,None,Military Officer,い  じょう
+1512,凡,おうよ  およ  すべ,Mediocre,ぼん  はん
+1513,陵,みささぎ,Mausoleum,りょう
+1514,宰,None,Manager,さい
+1515,寂,さび  さみ,Lonely,じゃく  せき
+1516,摂,おさ  かね  と,In Addition,せつ  しょう
+1517,穀,None,Grain,こく
+1518,呉,くれ  く,Give,ご
+1519,紳,None,Gentleman,しん
+1520,洪,None,Flood,こう
+1521,遥,はる,Far Off,よう
+1522,弊,None,Evil,へい
+1523,嘉,よい  よみ,Esteem,か
+1524,窮,きわ,Destitute,きゅう  きょう
+1525,悦,よろこ,Delight,えつ
+1526,轄,くさび,Control,かつ
+1527,錯,None,Confused,さく  しゃく
+1528,庸,None,Common,よう
+1529,凛,きびし,Cold,りん
+1530,弦,つる,Chord,げん
+1531,蝶,None,Butterfly,ちょう
+1532,柴,しば,Brushwood,さい  し
+1533,飽,あ,Bored,ほう
+1534,縛,しば,Bind,ばく
+1535,拍,None,Beat,はく  ひょう
+1536,匠,たくみ,Artisan,しょう
+1537,那,いかん  なに  なんぞ,What,な  だ
+1538,賓,None,VIP,ひん
+1539,尿,None,Urine,にょう
+1540,鎮,おさえ  しず,Tranquilize,ちん
+1541,之,これ  の,This,し
+1542,該,None,The Above,がい
+1543,脊,せ  せい,Stature,せき
+1544,朴,えのき  ほう  ほお,Simple,ぼく
+1545,憾,うら,Remorse,かん
+1546,昌,さかん,Prosperous,しょう
+1547,赴,おもむ,Proceed,ふ
+1548,愉,たの,Pleasant,ゆ
+1549,傍,かたわ  わき  おか  はた  そば,Nearby,ぼう
+1550,髄,None,Marrow,ずい
+1551,弥,や,Increasing,び  み
+1552,龍,たつ,Imperial,りゅう  りょう  ろう
+1553,栃,とち,Horse Chestnut,None
+1554,癒,い  いや,Healing,ゆ
+1555,悼,いた,Grieve,とう
+1556,憂,う  うれ,Grief,ゆう
+1557,惜,お,Frugal,せき
+1558,佳,None,Excellent,か
+1559,抹,None,Erase,まつ
+1560,郭,くるわ,Enclosure,かく
+1561,遼,None,Distant,りょう
+1562,奉,たてまつ  まつ  ほう,Dedicate,ほう  ぶ
+1563,旦,あきら  あき  あさ  あした  ただし,Dawn,たん  だん
+1564,瑛,None,Crystal,えい
+1565,栓,None,Cork,せん
+1566,凝,こ  こご,Congeal,ぎょう
+1567,粗,あら,Coarse,そ
+1568,循,None,Circulation,じゅん
+1569,虜,とりく  とりこ,Captive,りょ  ろ
+1570,伏,ふ,Bow,ふく
+1571,累,None,Accumulate,るい
+1572,卸,おろし  おろ,Wholesale,しゃ
+1573,鯨,くじら,Whale,げい
+1574,荘,あごそ  ほうき,Villa,そう  しょう  ちゃん
+1575,痴,おろか  し,Stupid,ち
+1576,茎,くき,Stem,きょう  けい
+1577,粛,つつし,Solemn,しゅく  すく
+1578,鎌,かま,Sickle,けん  れん
+1579,呆,あき  おろか  ほけ  ぼ,Shock,ほう
+1580,酬,むく,Repay,しゅう  しゅ  とう
+1581,茜,あかね,Red Dye,せん
+1582,疾,はや,Rapidly,しつ
+1583,傲,あなど  おご,Proud,ごう
+1584,呈,None,Present,てい
+1585,践,ふ,Practice,せん
+1586,栽,None,Planting,さい
+1587,哺,ほぐく  ふく,Nurse,ほ
+1588,謡,うた,Noh Chanting,よう
+1589,疎,うと  まば,Neglect,そ  しょ
+1590,勲,いさお,Merit,くん
+1591,悠,None,Leisure,ゆう
+1592,拐,None,Kidnap,かい
+1593,尚,なお,Furthermore,しょう
+1594,愚,おろ,Foolish,ぐ
+1595,阿,おもね  くま,Flatter,あ  お
+1596,紋,None,Family Crest,もん
+1597,逸,そ  はぐ,Deviate,いつ
+1598,叙,つい  ついで,Describe,じょ
+1599,酷,ひど,Cruel,こく
+1600,冠,かんむり,Crown,かん
+1601,欄,てすり,Column,らん
+1602,栞,しおり,Bookmark,かん
+1603,杏,あんず,Apricot,あん  きょう  こう
+1604,顕,あきらか  あらわ,Appear,けん
+1605,且,か,Also,しょ  しょう  そ
+1606,庶,None,All,しょ
+1607,寛,くつろ,Tolerance,かん
+1608,剰,あまつさえ  あま,Surplus,じょう
+1609,駿,すぐ,Speed,しゅん  すん
+1610,壌,つち,Soil,じょう
+1611,舗,None,Shop,ほ
+1612,准,None,Semi,じゅん
+1613,緋,あか  あけ,Scarlet,ひ
+1614,丹,に,Rust Colored,たん
+1615,艇,None,Rowboat,てい
+1616,戴,いただ,Receive,たい
+1617,虐,しいた,Oppress,ぎゃく
+1618,瓜,うり,Melon,か  け
+1619,緯,ぬき  よこいと,Latitude,い
+1620,莉,None,Jasmine,り  れい  らい
+1621,据,す,Install,きょ
+1622,騰,あが  のぼ,Inflation,とう
+1623,葵,あおい,Hollyhock,き
+1624,徐,おもむ,Gently,じょ
+1625,繊,None,Fiber,せん
+1626,披,None,Expose,ひ
+1627,啓,さと  ひら,Enlighten,けい
+1628,稿,したがき  わら,Draft,こう
+1629,惨,みじ  いた  むご,Disaster,さん  ざん
+1630,曙,あけぼの,Dawn,しょ
+1631,蒙,おお  くら  こうむ,Darkness,もう  ぼう
+1632,諒,あきら  まことに,Comprehend,りょう
+1633,帥,None,Commander,すい
+1634,浄,きよ,Cleanse,じょう  せい
+1635,胞,None,Cell,ほう
+1636,鯉,こい,Carp,り
+1637,錦,にしき,Brocade,きん
+1638,搭,None,Board,とう
+1639,胡,なんぞ,Barbarian,こ  う  ご
+1640,随,したが  まにま,All,ずい
+1641,諭,さと,Admonish,ゆ
+1642,遇,あ,Treatment,ぐう
+1643,膨,ふく,Swell,ぼう
+1644,慢,None,Ridicule,まん
+1645,颯,さっ,Quick,さつ  そう
+1646,糧,かて,Provisions,りょう  ろう
+1647,貫,つらぬ  ぬき  ぬ,Pierce,かん
+1648,芳,かんば,Perfume,ほう
+1649,孤,None,Orphan,こ
+1650,秩,None,Order,ちつ
+1651,牲,None,Offering,せい
+1652,須,すべから  すべし  ひげ  まつ  もち  もと,Necessary,す  しゅ
+1653,覇,はたがしら,Leadership,は  はく
+1654,怠,おこた  なま,Lazy,たい
+1655,惰,None,Lazy,だ
+1656,唆,そそのか  そそ,Instigate,さ
+1657,猟,かり  か,Hunting,りょう  れふ
+1658,輔,たす,Help,ふ  ほ
+1659,乃,すなわ  なんじ  の,From,ない
+1660,隼,はやぶさ,Falcon,しゅん  じゅん
+1661,陳,ひ,Exhibit,ちん
+1662,倫,None,Ethics,りん
+1663,殊,こと,Especially,しゅ
+1664,噴,ふ,Erupt,ふん
+1665,遭,あ,Encounter,そう
+1666,擁,None,Embrace,よう
+1667,没,おぼ  しず  ない,Die,ぼつ  もつ
+1668,綾,あや,Design,りん
+1669,恒,つね  つねに,Constant,こう
+1670,賠,None,Compensation,ばい
+1671,鎖,くさり  とざ,Chain,さ
+1672,陥,おちい  おとしい,Cave In,かん
+1673,茨,いばら,Briar,し  じ
+1674,偏,かたよ,Biased,へん
+1675,呂,せぼね,Bath,ろ  りょ
+1676,祥,きざ  さいわ  つまび  よ,Auspicious,しょう
+1677,枯,か,Wither,こ
+1678,聡,さと  みみざと,Wise,そう
+1679,渦,うず,Whirlpool,か
+1680,濯,すす  ゆす  そそぐ,Wash,たく
+1681,頂,いただき  いただ,Summit,ちょう
+1682,郊,None,Suburbs,こう
+1683,軟,やわ,Soft,なん
+1684,膚,はだ,Skin,ふ
+1685,隻,None,Ship Counter,せき
+1686,苗,なえ  なわ,Seedling,みょう  びょう
+1687,喚,わめ,Scream,かん
+1688,邸,やしき,Residence,てい
+1689,媛,ひめ,Princess,えん
+1690,耕,たがや,Plow,こう
+1691,肪,None,Obese,ぼう
+1692,玄,くろ,Mysterious,げん
+1693,塚,つか,Mound,ちょう
+1694,慈,いつく,Mercy,じ
+1695,蓮,はす  はちす,Lotus,れん
+1696,軒,のき,House Counter,けん
+1697,偉,えら,Greatness,い
+1698,脂,あぶら,Fat,し
+1699,釈,す  とく  ゆる,Explanation,しゃく  せき
+1700,燥,はしゃ,Dry Up,そう
+1701,郡,こおり,County,ぐん
+1702,隅,すみ,Corner,ぐう
+1703,襟,えり,Collar,きん
+1704,亮,あきらか,Clear,りょう
+1705,貞,さだ,Chastity,てい
+1706,召,め,Call,しょう
+1707,瓶,かめ,Bottle,びん
+1708,沸,わ,Boil,ふつ
+1709,挟,はさ,Between,きょう  しょう
+1710,浦,うら,Bay,ほ
+1711,肯,がえんじ,Agreement,こう
+1712,歌,うた,Song,か
+1713,横,よこ,Side,おう
+1714,病,や  やまい,Sick,びょう
+1715,路,じ  みち,Road,ろ
+1716,転,ころ,Revolve,てん
+1717,求,もと,Request,きゅう
+1718,読,よ,Read,とう  どく
+1719,親,おや  した,Parent,しん
+1720,開,あ  ひら,Open,かい
+1721,最,もっと,Most,さい
+1722,線,None,Line,せん
+1723,軽,かる  かろ,Lightweight,けい
+1724,習,なら,Learn,しゅう
+1725,葉,は  ば,Leaf,よう
+1726,語,かた,Language,ご
+1727,鉄,None,Iron,てつ
+1728,調,しら,Investigate,ちょう
+1729,院,None,Institution,いん
+1730,聞,き,Hear,ぶん  もん
+1731,頭,あたま,Head,ず  とう
+1732,速,はや,Fast,そく
+1733,農,None,Farming,のう
+1734,落,お,Fall,らく
+1735,顔,かお,Face,がん
+1736,終,おわ  お,End,しゅう
+1737,飲,の,Drink,いん
+1738,配,くば,Distribute,はい
+1739,集,あつ,Collect,しゅう
+1740,鳴,な,Chirp,めい
+1741,漢,None,Chinese,かん
+1742,運,はこ,Carry,うん
+1743,算,そろ,Calculate,さん
+1744,業,None,Business,ぎょう
+1745,始,はじ,Begin,し
+1746,酒,さけ  さか,Alcohol,しゅ
+1747,進,すす,Advance,しん
+1748,界,None,World,かい
+1749,勝,か,Win,しょう
+1750,使,つか,Use,し
+1751,試,こころ  ため,Try,し
+1752,実,み,Truth,じつ
+1753,具,None,Tool,ぐ
+1754,物,もの,Thing,ぶつ  もつ
+1755,験,ため  ためし,Test,けん
+1756,仮,かり,Temporary,か
+1757,泳,およ,Swim,えい
+1758,苦,くる  にが,Suffering,く
+1759,送,おく,Send,そう
+1760,売,う,Sell,ばい
+1761,屋,や,Roof,おく
+1762,乗,の,Ride,じょう
+1763,返,かえ,Return,へん
+1764,保,たも,Preserve,ほ
+1765,県,None,Prefecture,けん
+1766,和,なご  やわ,Peace,わ  お
+1767,部,へ,Part,ぶ
+1768,新,あたら  あら  にい,New,しん
+1769,要,い  かなめ,Need,よう
+1770,相,あい,Mutual,そう  しょう
+1771,負,ま  お,Lose,ふ
+1772,持,も,Hold,じ
+1773,重,おも  かさ  え,Heavy,じゅう  ちょう
+1774,客,None,Guest,きゃく
+1775,表,あらわ  おもて,Express,ひょう
+1776,談,None,Discuss,だん
+1777,定,さだ,Determine,てい  じょう
+1778,発,None,Departure,はつ
+1779,度,たび,Degrees,ど  たく
+1780,服,None,Clothes,ふく
+1781,予,あらかじ,Beforehand,よ
+1782,美,うつく,Beauty,び  み
+1783,事,こと  つか,Action,じ
+1784,受,う,Accept,じゅ
+1785,対,None,Versus,たい
+1786,投,な,Throw,とう
+1787,話,はな  はなし,Talk,わ
+1788,支,ささ,Support,し
+1789,者,もの,Someone,しゃ
+1790,身,み,Somebody,しん
+1791,研,と,Sharpen,けん
+1792,役,None,Service,やく
+1793,道,みち,Road,どう
+1794,究,きわ,Research,きゅう
+1795,池,いけ,Pond,ち
+1796,所,ところ,Place,しょ
+1797,番,None,Number In A Series,ばん
+1798,朝,あさ,Morning,ちょう
+1799,医,None,Medicine,い
+1800,場,ば,Location,じょう
+1801,間,あいだ  ま,Interval,かん  けん
+1802,馬,うま,Horse,ば
+1803,助,たす  すけ,Help,じょ
+1804,森,もり,Forest,しん
+1805,電,None,Electricity,でん
+1806,住,す,Dwelling,じゅう
+1807,絵,None,Drawing,え
+1808,決,き,Decide,けつ
+1809,数,かぞ  かず,Count,すう
+1810,楽,たの,Comfort,らく  がく
+1811,雲,くも,Cloud,うん
+1812,買,か,Buy,ばい
+1813,局,None,Bureau,きょく
+1814,君,きみ,Buddy,くん
+1815,反,None,Anti,はん
+1816,答,こた,Answer,とう
+1817,黄,き,Yellow,おう
+1818,記,しる,Write Down,き
+1819,風,かぜ,Wind,ふう  ふ
+1820,週,None,Week,しゅう
+1821,弱,よわ,Weak,じゃく
+1822,時,とき,Time,じ
+1823,教,おし  おそ,Teach,きょう
+1824,高,たか,Tall,こう
+1825,夏,なつ,Summer,げ  か  が
+1826,強,つよ,Strong,きょう
+1827,雪,ゆき,Snow,せつ
+1828,校,None,School,こう
+1829,由,よし  よ,Reason,ゆう
+1830,理,ことわり,Reason,り
+1831,民,たみ,Peoples,みん
+1832,通,とお  かよ,Pass Through,つう
+1833,紙,かみ,Paper,し
+1834,未,ま  いま  ひつじ,Not Yet,み
+1835,欠,か,Lack,けつ
+1836,家,いえ  や  うち,House,か  け
+1837,組,くみ,Group,そ
+1838,以,None,From,い
+1839,魚,さかな,Fish,ぎょ
+1840,失,うしな,Fault,しつ
+1841,氏,うじ,Family Name,し
+1842,末,すえ,End,まつ
+1843,必,かなら,Certain,ひつ
+1844,船,ふね,Boat,せん
+1845,黒,くろ,Black,こく
+1846,鳥,とり,Bird,ちょう
+1847,札,ふだ,Bill,さつ
+1848,付,つ,Attach,ふ
+1849,辺,あた  べ,Area,へん
+1850,妹,いもうと,Younger Sister,まい
+1851,向,む,Yonder,こう
+1852,歩,ある  あゆ,Walk,ほ
+1853,思,おも,Think,し
+1854,茶,None,Tea,ちゃ  さ
+1855,州,None,State,しゅう
+1856,星,ほし,Star,せい
+1857,南,みなみ,South,なん
+1858,店,みせ,Shop,てん
+1859,羊,ひつじ,Sheep,よう
+1860,海,うみ,Sea,かい
+1861,室,None,Room,しつ
+1862,安,やす,Relax,あん
+1863,点,つ,Point,てん
+1864,姉,お  あね  ねえ,Older Sister,し
+1865,夜,よ  よる,Night,や
+1866,次,つぎ,Next,じ
+1867,首,くび,Neck,しゅ
+1868,曲,ま,Music,きょく
+1869,長,なが,Long,ちょう
+1870,活,い,Lively,かつ
+1871,知,し,Know,ち
+1872,私,わたし,I,し
+1873,有,あ,Have,ゆう  う
+1874,前,まえ,Front,ぜん
+1875,直,なお,Fix,ちょく  じき
+1876,食,た  く,Eat,しょく
+1877,東,ひがし,East,とう
+1878,地,None,Earth,ち  じ
+1879,画,None,Drawing,が  かく
+1880,死,し,Death,し
+1881,亡,な,Death,ぼう
+1882,科,None,Course,か
+1883,国,くに,Country,こく
+1884,化,ば,Change,か
+1885,京,みやこ,Capital,きょう
+1886,明,あ  あか  あき,Bright,めい
+1887,両,None,Both,りょう
+1888,血,ち,Blood,けつ
+1889,後,うし  あと  のち,Behind,ご  こう
+1890,全,すべ  まった,All,ぜん
+1891,弟,おとうと,Younger Brother,だい  で  てい
+1892,麦,むぎ,Wheat,ばく
+1893,何,なに  なん,What,か
+1894,西,にし,West,せい  さい
+1895,声,こえ,Voice,せい
+1896,谷,たに,Valley,こく
+1897,回,まわ,Times,かい
+1898,考,かんが,Think,こう
+1899,光,ひかり  ひか,Sunlight,こう
+1900,学,まな,Study,がく
+1901,音,おと  ね,Sound,おん
+1902,空,そら  あ  から  す,Sky,くう
+1903,皮,かわ,Skin,ひ
+1904,形,かた  かたち,Shape,けい  ぎょう
+1905,自,None,Self,じ  し
+1906,言,い  こと,Say,げん  ごん
+1907,同,おな,Same,どう
+1908,走,はし,Run,そう
+1909,米,こめ,Rice,べい  まい
+1910,雨,あめ  あま,Rain,う
+1911,兄,あに,Older Brother,きょう
+1912,近,ちか,Near,きん  こん
+1913,交,まじ  ま  か,Mix,こう
+1914,会,あ,Meet,かい
+1915,肉,None,Meat,にく
+1916,多,おお,Many,た
+1917,作,つく,Make,さく  さ
+1918,里,さと,Home Village,り
+1919,草,くさ,Grass,そう
+1920,金,かね,Gold,きん
+1921,行,い  おこな  ゆ,Go,こう  ぎょう
+1922,林,はやし,Forest,りん
+1923,羽,はね  は  わ,Feather,う
+1924,毎,ごと,Every,まい
+1925,図,え  はか,Diagram,ず  と
+1926,当,あ,Correct,とう
+1927,社,やしろ,Company,しゃ
+1928,来,く,Come,らい
+1929,色,いろ,Color,しき  しょく
+1930,体,からだ,Body,たい
+1931,青,あお,Blue,せい  しょう
+1932,斤,None,Axe,きん
+1933,角,かど  つの,Angle,かく
+1934,年,とし,Year,ねん
+1935,世,よ,World,せ  せい
+1936,村,むら,Village,そん
+1937,宝,たから,Treasure,ほう
+1938,町,まち,Town,ちょう
+1939,糸,いと,Thread,し
+1940,礼,None,Thanks,れい
+1941,代,か  かわ  しろ,Substitute,だい
+1942,石,いし,Stone,せき
+1943,貝,かい,Shellfish,None
+1944,見,み,See,けん
+1945,申,もう,Say Humbly,しん
+1946,休,やす,Rest,きゅう
+1947,赤,あか,Red,せき
+1948,先,さき  まず,Previous,せん
+1949,皿,さら,Plate,None
+1950,去,さ,Past,きょ  こ
+1951,他,ほか,Other,た
+1952,号,None,Number,ごう
+1953,不,None,Not,ふ
+1954,名,な,Name,めい  みょう
+1955,主,おも  ぬし,Master,しゅ
+1956,男,おとこ,Man,だん  なん
+1957,字,None,Letter,じ
+1958,虫,むし,Insect,ちゅう  き
+1959,氷,こおり,Ice,ひょう
+1960,百,もも,Hundred,ひゃく
+1961,打,う  ぶ,Hit,だ
+1962,足,あし  た,Foot,そく
+1963,花,はな,Flower,か  け
+1964,平,たいら  ひら,Flat,へい  ひょう  びょう
+1965,気,いき,Energy,き  け
+1966,早,はや  さ,Early,そう
+1967,耳,みみ,Ear,じ
+1968,仕,つか,Doing,し
+1969,写,うつ,Copy,しゃ
+1970,央,None,Center,おう
+1971,車,くるま,Car,しゃ
+1972,竹,たけ,Bamboo,None
+1973,冬,ふゆ,Winter,とう
+1974,広,ひろ,Wide,こう
+1975,万,None,Ten Thousand,まん  ばん
+1976,用,もち,Task,よう
+1977,止,と  や,Stop,し
+1978,引,ひ,Pull,いん
+1979,公,None,Public,こう
+1980,分,わ,Part,ぶん  ふん  ぶ
+1981,外,そと  はず,Outside,がい
+1982,元,もと,Origin,げん  がん
+1983,古,ふる,Old,こ
+1984,今,いま,Now,こん
+1985,北,きた,North,ほく
+1986,午,None,Noon,ご
+1987,母,はは,Mother,ぼ
+1988,台,None,Machine,だい  たい
+1989,生,い  なま  う  は  き,Life,せい  しょう
+1990,内,うち,Inside,ない
+1991,心,こころ,Heart,しん
+1992,半,なか,Half,はん
+1993,毛,け,Fur,もう
+1994,友,とも,Friend,ゆう
+1995,少,すこ,Few,しょう
+1996,父,ちち,Father,ふ
+1997,太,ふと,Fat,たい  た
+1998,戸,と,Door,こ
+1999,方,かた,Direction,ほう
+2000,切,き,Cut,せつ
+2001,牛,うし,Cow,ぎゅう
+2002,市,いち,City,し
+2003,矢,や,Arrow,し
+2004,円,まる,Yen,えん
+2005,六,む,Six,ろく
+2006,右,みぎ,Right,ゆう  う
+2007,田,た,Rice Paddy,でん
+2008,々,のま,Repeater,None
+2009,月,つき,Moon,げつ  がつ
+2010,中,なか,Middle,ちゅう
+2011,左,ひだり,Left,さ
+2012,王,None,King,おう
+2013,天,あま,Heaven,てん
+2014,手,て,Hand,しゅ  ず
+2015,才,None,Genius,さい
+2016,四,よん  よ,Four,し
+2017,五,いつ,Five,ご
+2018,火,ひ  ほ,Fire,か
+2019,了,None,Finish,りょう
+2020,目,め,Eye,もく
+2021,出,で  だ,Exit,しゅつ
+2022,夕,ゆう,Evening,せき
+2023,犬,いぬ,Dog,けん
+2024,土,つち,Dirt,ど  と
+2025,正,ただ  まさ,Correct,せい  しょう
+2026,丸,まる,Circle,がん
+2027,子,こ,Child,し  す
+2028,本,もと,Book,ほん
+2029,玉,たま,Ball,ぎょく
+2030,又,また,Again,None
+2031,女,おんな  め,Woman,じょ
+2032,二,ふた,Two,に
+2033,三,み,Three,さん
+2034,十,とお,Ten,じゅう
+2035,七,なな  なの,Seven,しち
+2036,川,かわ,River,せん
+2037,力,ちから,Power,りょく  りき
+2038,人,ひと  と,Person,にん  じん
+2039,一,ひと,One,いち  いつ
+2040,九,ここの,Nine,く  きゅう
+2041,口,くち,Mouth,こう  く
+2042,山,やま,Mountain,さん
+2043,入,はい  い,Enter,にゅう
+2044,八,や  よう,Eight,はち
+2045,工,None,Construction,こう  く
+2046,大,おお,Big,たい  だい
+2047,下,した  さ  くだ  お,Below,か  げ
